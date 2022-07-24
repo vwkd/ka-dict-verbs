@@ -92,3 +92,4 @@ X-Goog-User-Project: PROJECT-ID
 - fix misrecognized characters, symbols, etc.
 - move bracketed extension on corresponding line above / below
 - remove line breaks and hyphens
+- beware: don't correct formatting, grammar, etc. just yet, keep original source, use separate transformation into own dictionary ❗️
