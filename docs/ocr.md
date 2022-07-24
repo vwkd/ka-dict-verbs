@@ -89,5 +89,6 @@ X-Goog-User-Project: PROJECT-ID
 
 ## Postprocessing
 
-- fix mistakes
-- fix symbols
+- fix misrecognized characters, symbols, etc.
+- move bracketed extension on corresponding line above / below
+- remove line breaks and hyphens
