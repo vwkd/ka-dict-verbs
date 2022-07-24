@@ -89,7 +89,14 @@ X-Goog-User-Project: PROJECT-ID
 
 ## Postprocessing
 
-- fix misrecognized characters, symbols, etc.
+- fix misrecognized characters, symbols, "1" and "l", etc.
 - move bracketed extension on corresponding line above / below
 - remove line breaks and hyphens
 - beware: don't correct formatting, grammar, etc. just yet, keep original source, use separate transformation into own dictionary ❗️
+
+
+
+## Transformations for own dictionary
+
+- correct grammar, use modern grammar, e.g. run grammar checker
+- replace multiple entries with superscript numbers with single entry with regular numbers
