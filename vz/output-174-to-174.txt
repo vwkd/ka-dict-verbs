@@ -16,7 +16,7 @@ hy (j-s Herz) rühren
 ჩუჩქნ (imer.) Bed. s. ჩიჩქნ
 ჩუჩხუნ (umg.) Bed. s. ჩუჩხურ
 huhbmm 1. stochem; mit dem Stock
-stossen/plagen 2. fig (umg.) in j-n
+stossen/plagen 2. {fig} (umg.) in j-n
 dringen
 hmbhmb plätschern, rauschen, spru-
 de ln; brodeln
@@ -33,7 +33,7 @@ hjgog aus der Fassung b., in Er-
 staunen setzen
 ჩქლეთ in Fetzen reissen
 ჩქლით s. ჩქლეთ
-hjas 1. verstecken; fig vertuschen
+hjas 1. verstecken; {fig} vertuschen
 [2. übertönen
 ჩქმეტ zwicken
 ჩქმიტ s. ჩქმეტ

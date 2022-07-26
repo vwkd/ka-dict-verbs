@@ -6,7 +6,7 @@ msg auf, weg-, ein-räumen, ordnen,
 (mehrere Gegenstände) auslegen;
 die zugewiesenen Plätze einneh-
 men; (geordnet) stehen/liegen
-msgə zäumen; fig im Zaum halten
+msgə zäumen; {fig} im Zaum halten
 ლაზათიან
 verschönern, zieren;
 schön(er) w.
@@ -25,11 +25,11 @@ msas% schön sn od. werden; verschö-
 nern
 msa (verloren) heften
 ლამიან mit Schlamm bedecken
-m³ªmб begehren; fig um den Bart ge-
+m³ªmб begehren; {fig} um den Bart ge-
 hen; liebkosen
 msб flüchtig erblicken od. zeigen,
 zu sehen glauben
-msád (an)sengen; fig zum Erröten b.;
+msád (an)sengen; {fig} zum Erröten b.;
 hochrot w.
 maбdm (be)schimpfen, schmähen
 ლაპარაკ sprechen, reden
