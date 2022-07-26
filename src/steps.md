@@ -99,4 +99,5 @@ X-Goog-User-Project: PROJECT-ID
 ## Transformations for own dictionary
 
 - correct grammar, use modern grammar, e.g. run grammar checker
+  - einheitlich "z.B.", statt teils "z. B."
 - replace multiple entries with superscript numbers with single entry with regular numbers
