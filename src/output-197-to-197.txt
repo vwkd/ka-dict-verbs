@@ -14,7 +14,7 @@ planschen
 წუწურაქ geizig sn
 წუხ 1. traurig/unruhig sn; bedauern
 2. plagen; stören
-წყ' anfangen, beginner
+წყ¹ anfangen, beginner
 2
 y² 1. (sich) aufstellen, ordnen
 2. montieren 3. (typ.) setzen
@@ -27,7 +27,7 @@ wo unterbringen 11. sich vertragen
 წყ* (khar., psch., imer.) vernichten,
 ausrotten; umkommen
 2
-წყალ' 1. wohlwollen_2. sich erbar-
+წყალ¹ 1. wohlwollen_2. sich erbar-
 men; bemitleiden; begnadigen
 წყალ 1. verwässern 2. vernichten,
 ruinieren 3. abmagern; sich verzeh-
@@ -38,6 +38,6 @@ abtragen
 წყალობ 1. segnen 2. verleihen,
 schenken
 წყალობნ (psch.) s. მწყალობ
-წყდ' s. წყვეტ
+წყდ¹ s. წყვეტ
 2
 წყდ^ s. წყმე(ნ)დ
