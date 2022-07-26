@@ -1,14 +1,10 @@
 ბრუხუნ poltern
-ბრძ s, ბრძოლ
-s.
-ბრძ’ † kämpfen
-2 +
-ბრძან 1. befehlen 2. (belieben zu)
-sagen 3. (belieben zu) sein 4. sich
-begeben
+ბრძ¹ s. ბრძოლ
+ბრძ² † kämpfen
+ბრძან 1. befehlen 2. (belieben zu) sagen 3. (belieben zu) sein 4. sich begeben
 ბრძანებლ s. მბრძანებლ
 ბრძენ weise machen
-ბრძვs. ბრძოლ
+ბრძვ s. ბრძოლ
 ბრძმედ schmelzen
 ბრძმიდ s. ბრძმედ
 ბრძნ weise sein; klügeln
@@ -26,12 +22,9 @@ begeben
 ბრჯენ s. ბჯენ
 ბრჯინ s. ბჯენ
 ბტყვნ s. ბდღვნ
-ბუ' aus-, ver-lachen
-2
-ბუ (kach.) 1. aufschütteln 2. an-
-schwellen
-3
-ბუ s. ბუილ
+ბუ¹ aus-, ver-lachen
+ბუ² (kach.) 1. aufschütteln 2. anschwellen
+ბუ³ s. ბუილ
 ბუბ(ვ)ნ verhauen
 ბუბკო(ვ) kleistern
 ბუბნ s. ბუბ(ვ)ნ
