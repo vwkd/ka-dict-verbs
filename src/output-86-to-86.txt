@@ -1,7 +1,7 @@
 მშვნევ sich gewöhnen, ertragen
 მშვნი s. მშვნევ
-მში¹ s. მშე(ვ)
-მში² (khis.) s. მშე(ვ)
+მში¹ s. მშე(ვ)¹
+მში² (khis.) s. მშე(ვ)²
 მშობიარ entbinden (Frau); kreissen,
 gebaren
 [treten
@@ -22,11 +22,8 @@ zen, hüten
 მცვრე(ვ)¹ nachlesen (im Weinberg)
 მცვრე(ვ)² betauen; sich mit Tau be-
 decken
-2
-1
-მცვრი¹ s. მცვრე(ვ)
-მცვრი² s. მცვრე(ვ)-
-2
+მცვრი¹ s. მცვრე(ვ)¹
+მცვრი² s. მცვრე(ვ)²
 მცივნ Fieberfrost haben
 მცირ 1. (sich) vermindern 2. ernied-
 rigen
@@ -38,7 +35,6 @@ man ihn kennt; bekannt vorkommen
 მცნევ² (be)merken; sich et, anmer-
 მცნი s. მცნევ
 [ken l.
-2
 მცრ † erniedrigen, demütigen
 მცხეთ (umg.) e-n (Nerven-)Schock
 erleiden

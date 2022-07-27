@@ -5,9 +5,8 @@ sn; verteuern 3. geizen
 2
 ძვრ¹ s. ძვრენ
 ძვრ s. ძრ
-ძვრ3 s. ძრ2
-4
-ძვრ← s. ზვრ
+ძვრ³ s. ძრ2
+ძვრ⁴ s. ზვრ
 ძვრენ kriechen; klettern
 ძვრინ s. ძვრენ
 ძვრომ s. ძვრენ
@@ -28,7 +27,7 @@ dm 1. aus-, durch-halten 2. können
 2
 ძლე(ვ) überwinden, besiegen
 ძლი¹ s. ძლე(ვ)
-ძლი^ s. ძლე(ვ)
+ძლი² s. ძლე(ვ)
 ძლიერ stark/mächtig sn; verstärken
 ძლე(ვ)2
 ძლივ s.
