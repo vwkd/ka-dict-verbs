@@ -102,6 +102,7 @@ X-Goog-User-Project: PROJECT-ID
   - run grammar checker
   - "z.B." instead of "z. B."
   - write out all shorthands, e.g. "zusammen" instead of "zs", "jemand" instead of "jmd", etc.
+  - correct mistakes, e.g. ":"
 - create tag syntax, e.g. `{fig}`, `{ugs}`, etc.
 - split entries into separate nested fields by letters (I, II, A, B, etc.) then numbers (1., 2., etc.), then semicolons, then commas
 - ??? replace multiple entries with superscript numbers with single entry with multiple fields
