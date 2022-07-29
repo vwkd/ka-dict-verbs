@@ -92,8 +92,8 @@ GET https://vision.googleapis.com/v1/operations/OPERATION_ID
 
 ## Preprocessing
 
-- split page if multiple columns
-- crop out unrelated text
+- optionally split page if multiple columns, Google Vision API can recognize if not too tight
+- crop out unrelated text)
 - combine to single PDF file
 
 
