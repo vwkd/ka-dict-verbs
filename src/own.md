@@ -2,6 +2,12 @@
 
 
 
+## Prerequisites
+
+- OCR text files
+
+
+
 ## Corrections
 
 - correct grammar, run grammar checker
