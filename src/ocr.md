@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-- scan, e.g. PDF file, image files
+- scan of dictionary, e.g. PDF file, image files
 - terminal with `gcloud` installed, e.g. Google Cloud Console
 - Google Cloud account
 - beware: Google Cloud Vision API and Google Cloud Storage [pricing and limits](https://cloud.google.com/vision/docs/detect-labels-image-api) ❗️
