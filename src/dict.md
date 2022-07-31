@@ -1,10 +1,10 @@
-## Own dictionary
+## Create dictionary
 
 
 
 ## Prerequisites
 
-- OCR text files
+- OCR text files of dictionary
 
 
 
