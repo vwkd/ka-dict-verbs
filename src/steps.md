@@ -125,17 +125,6 @@ curl -F "file=@a.zip" https://ki.tc/file/u/
 - fix misrecognized characters, symbols, "1" and "l", etc.
 - move bracketed extension on corresponding line above / below
 - remove line breaks and hyphens
-- beware: don't correct formatting, grammar, etc. just yet, keep original source, use separate transformation into own dictionary ❗️
-
-
-
-## Transformations for own dictionary
-
-- correct grammar, run grammar checker
-  - correct mistakes, e.g. ":"
-  - use modern grammar, e.g. "ck" instead of "kk", "ß" instead of "ss"
-  - make consistent, e.g. "z.B." instead of "z. B."
-  - expand shorthands, e.g. "zusammen" instead of "zs", "jemand" instead of "jmd", etc.
-- create tag syntax, e.g. `{fig}`, `{ugs}`, etc.
-- split entries into separate nested fields by letters (I, II, A, B, etc.) then numbers (1., 2., etc.), then semicolons, then commas
-- ??? replace multiple entries with superscript numbers with single entry with multiple fields
+- fix print errors, e.g. spurious commas, double colon instead of semicolon, etc.
+- preserve font styles, e.g. `{fig}`, etc.
+- beware: keep original, don't yet transform into own dictionary, e.g. change formatting, grammar, etc. ❗️
