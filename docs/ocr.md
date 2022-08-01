@@ -127,4 +127,5 @@ curl -F "file=@a.zip" https://ki.tc/file/u/
 - remove line breaks and hyphens
 - fix print errors, e.g. spurious commas, double colon instead of semicolon, etc.
 - preserve font styles, e.g. `{fig}`, etc.
+- additional characters from dictionary, e.g. trailing Georgian vocals
 - beware: keep original, don't yet transform into own dictionary, e.g. change formatting, grammar, etc. ❗️
