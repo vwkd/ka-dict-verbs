@@ -1605,7 +1605,7 @@
 ლომ tapfer/mutig sein (wie ein Löwe)
 ლომგულ löwenherzig machen, Mut geben
 ლომკაც zu einem löwenstarken Menschen machen
-ლოპ(ვ)რ 1. abrinden 2. {fig.} {umg.} kahl scheren
+ლოპ(ვ)რ 1. abrinden 2. {fig., umg.} kahl scheren
 ლორ Schinken machen/räuchern
 ლორთხ {moch.} befeuchten
 ლორწოიან eine schleimige Spur hinterlassen; sich mit Schleim bedekken
@@ -1821,7 +1821,7 @@
 მიწ 1. in Erde/Staub verwandeln; vernichten, töten 2. zu Staub werden, sterben 3. {elektr.} erden
 მიჯ(ვ)ნ (ver-, ab-)messen; trennen; sich absondern
 მიჯნურ jemandes Liebe gewinnen; sich verlieben
-მკ¹ 1. schmücken 2. loben 3. {fig.} {umg.} jemanden etwas schimpfen
+მკ¹ 1. schmücken 2. loben 3. {fig., umg.} jemanden etwas schimpfen
 მკ² mähen
 მკაცრ streng/hart sein
 მკვ s. მკ¹
@@ -1835,7 +1835,7 @@
 მკრეხელ 1. Kirchenraub begehen 2. lästern
 მკრთალ verbleichen (lassen)
 მკურნალ 1. sich kurieren 2. in ärztlicher Behandlung sein 3. einen Kranken behandeln
-მლაშ 1. stark versalzen 2. {fig.} {umg.} übertreiben
+მლაშ 1. stark versalzen 2. {fig., umg.} übertreiben
 მლიქვნელ jemandes Speichel lecken, schmeicheln
 მნე Leiter (einer staatlichen od. wirtschaftlichen Organisation) sein
 მოგზაურ reisen
@@ -3010,7 +3010,7 @@
 ტრუ(ვ) Bed. s. ტროვ
 ტრუნ den Atem anhalten u. sich nicht regen
 ტრუს sengen
-ტრუჭ {khar.} {iro.} jemanden (Unwürdigen) an sich heranlassen
+ტრუჭ {khar., iro.} jemanden (Unwürdigen) an sich heranlassen
 ტრუხუნ grunzen
 ტრფ innig lieben, verehren
 ტრფიალ s. ტრფ
@@ -4250,7 +4250,7 @@
 ჩუჩუნ sich regen, rascheln
 ჩუჩქნ {imer.} Bed. s. ჩიჩქნ
 ჩუჩხუნ {umg.} Bed. s. ჩუჩხურ
-ჩუჩხურ 1. stochern; mit dem Stock stossen/plagen 2. {fig.} {umg.} in jemanden dringen
+ჩუჩხურ 1. stochern; mit dem Stock stossen/plagen 2. {fig., umg.} in jemanden dringen
 ჩუხჩუხ plätschern, rauschen, sprudeln; brodeln
 ჩქამ ein bestimmtes Geräusch machen
 ჩქარ Eile haben; beschleunigen
@@ -5076,7 +5076,7 @@
 ხანგრძლივ verlängern; andauern
 ხანიერ andauern; ausgedehnt werden
 ხანხალ sich schleppen
-ხანხ(ვ)ლ 1. unsorgfältig braten 2. {umg.} {fig.} flüchtig verfassen; zusammenlügen 3. {imer., gur.} verschlingen
+ხანხ(ვ)ლ 1. unsorgfältig braten 2. {umg., fig.} flüchtig verfassen; zusammenlügen 3. {imer., gur.} verschlingen
 ხანჯ(ვ)ლ mit dem Dolch verwunden; erdolchen
 ხაპ Flüssigkeit herausschöpfen
 ხარ¹ 1. sich freuen; erfreuen 2. gedeihen (von Pflanzen)
@@ -5143,7 +5143,7 @@
 ხელმძღვანელ sich leiten lassen (von); leiten
 ხელმწიფ herrschen
 ხელოვნ 1. ein Künstler sein; zum Meister (in seinem Fach) machen 2. sich bemühen
-ხელოსნ 1. ein Handwerk betreiben 2. {thusch.} {ethn.} die einer Ikone zu weihende Gabe usw. segnen
+ხელოსნ 1. ein Handwerk betreiben 2. {thusch., ethn.} die einer Ikone zu weihende Gabe usw. segnen
 ხელსაქმ handarbeiten
 ხემს einen Imbiss einnehmen
 ხენცლ {chew.} mit der Sichel schneiden
