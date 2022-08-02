@@ -481,7 +481,7 @@
 განიერ s. განივრ
 განივრ verbreitern, ausweiten
 გარ † sich aufs offene Feld begeben, ausziehen
-გარეულ verwildern/verwahrlosen l.
+გარეულ verwildern/verwahrlosen lassen
 გბ (imer.) kochen (z. B. Seidenkokons)
 გდ werfen
 გებ 1. j-m j-n entgegen-schicken, -senden 2. j-m entgegen-gehen od. -kommen
@@ -494,7 +494,7 @@
 გენ s. გნ
 გერ s. გერი
 გერი sich wehren; abschlagen, abwehren (z.B. Angriff)
-გერის (das Kalb) am Euter saugen l.
+გერის (das Kalb) am Euter saugen lassen
 გერშ s. გეშ
 გესვლ s. გესლ
 გესლ vergiften
@@ -1392,7 +1392,7 @@
 კოტრიალ purzeln, kugeln, rollen
 კოქს (tech.) verkoken
 კოშტ fest werden, Klumpen bilden
-კოჩ (imer.) umkippen l. (z.B. Wagen)
+კოჩ (imer.) umkippen lassen (z.B. Wagen)
 კოც s. კოცნ
 კოცნ küssen
 კოწიალ s. კონწიალ
@@ -1701,7 +1701,7 @@
 მაწანწალ umherschweifen, strolchen
 მაწივრ mit nahrhaftem Essen (od. Futter) nähren; sich an et. Nahrhaftem satt (fr)essen
 მაჭანკლ 1. das Gewerbe des Heiratsvermittlers betreiben 2. † kuppeln
-მაჭრ (Traubensaft) gären l.; zu Most od. Sauser werden
+მაჭრ (Traubensaft) gären lassen; zu Most od. Sauser werden
 მახ(ვ) schärfen, spitzen
 მახვილ 1. geistreich erzählen 2. schärfen
 მახვილსიტყვა scharfsinnige Witze machen
@@ -1751,7 +1751,7 @@
 მემარჯვენ (pol.) nach rechts schwenken
 მეორ (sich) wiederholen; widerhallen
 მეოჯახე die Wirtschaft führen
-მერ die Lämmer zum Trinken zu den Müttern l.
+მერ die Lämmer zum Trinken zu den Müttern lassen
 მერქნიან (bot.) verholzen
 მერყე schwanken, zaudern
 მეტ¹ grösser sein (als), übertreffen, übertreiben
@@ -2023,7 +2023,7 @@
 მცნ² s. მცნევ¹
 მცნაურ j-m in Erinnerung rufen, dass man ihn kennt; bekannt vorkommen
 მცნევ¹ mitteilen, verkünd(ig)en
-მცნევ² (be)merken; sich et. anmerken l.
+მცნევ² (be)merken; sich et. anmerken lassen
 მცნი s. მცნევ²
 მცრ † erniedrigen, demütigen
 მცხეთ (umg.) e-n (Nerven-)Schock erleiden
@@ -2396,7 +2396,7 @@
 პტკვ(ე)ნ rupfen (z.B. Huhn)
 პტყელ s. ბრტყელ
 პტყვ(ე)ნ rupfen (z.B. Huhn)
-პუ (mst neg. gebr.) sich scheren (um); sich unterkriegen l.
+პუ (mst neg. gebr.) sich scheren (um); sich unterkriegen lassen
 პუდ(ვ)რ pudern
 პურ 1. speisen; verpflegen 2. Ähren ansetzen
 პურად gastfreundlich sein
@@ -2410,7 +2410,7 @@
 პწკარ sich in Reih u. Glied aufstellen
 პწკენ kneifen
 პწკინ s. პწკენ
-ჟამ verzögern; reifen l.
+ჟამ verzögern; reifen lassen
 ჟამკარ (psch., chew.) besorgen (Hauswesen)
 ჟანგ (ver)rosten (lassen)
 ჟაპუნ Bed. s. ზაპუნ
@@ -2537,7 +2537,7 @@
 რიტორ e. Rhetor/Redner sein; Reden halten
 რიყ 1. anschwemmen 2. vernichten, zerstören 3. ausstossen, isolieren
 რიშხ(ვ)ნ (psch.) zürnen, rügen
-რიჩხინ (imer., gur.) klingen/klirren l.
+რიჩხინ (imer., gur.) klingen/klirren lassen
 რიცხ 1. be-, aus-rechnen; (ab)zählen 2. streichen (aus e-r Liste) 3. aus-stossen, -weisen 4. transferieren; gutschreiben 5. j-n eintragen 6. betrachten (als)
 რიწკინ (imer.) s. წკარუნ
 რიხინ Bed. s. რახრახ
@@ -3465,7 +3465,7 @@
 ქერც(ვ)ლ sich lösen, abblättern; sich schuppen
 ქესატ auspowern; sein ganzes Geld verlieren
 ქექ 1. stochern, wühlen 2. sich kratzen
-ქეშელ (imer.) keuchen l.
+ქეშელ (imer.) keuchen lassen
 ქეც¹ s. ქცე(ვ)¹
 ქეც² s. ქცე(ვ)³
 ქეციან an Krätze/Räude erkranken
@@ -3812,11 +3812,11 @@
 ყათ(ვ)რ schwer beladen
 ყაირათ sparen
 ყაირათიან Bed. s. ყაირათ
-ყალაღნ (khis.) j-m seine Freiheit l.
+ყალაღნ (khis.) j-m seine Freiheit lassen
 ყალბ Falsches tun; fälschen
 ყალთაბანდ gaunern
 ყალიბ giessen (Metall)
-ყამირ Boden (e-e best. Zeitlang) brachliegen l.
+ყამირ Boden (e-e best. Zeitlang) brachliegen lassen
 ყანდ faulen, morsch werden
 ყანთ(ვ)რ (imer.) sich dieser od. jener Seite zuneigen (v. der Waage)
 ყანყალ (imer., gur.) 1. wackeln 2. müssig umhergehen
@@ -3879,7 +3879,7 @@
 ყივყივ kreischen, schreien, schnattern
 ყინ es friert; gefrieren
 ყინტრა(ვ) (psch.) Kapriolen machen
-ყინულ zu Eis werden l.
+ყინულ zu Eis werden lassen
 ყინჩ s. ყინჩა(ვ)
 ყინჩა(ვ) 1. (imer.) sich spreizen 2. (gur., khar.) sich recken
 ყინჭ(ვ)რ (psch.) schlachten
@@ -4160,7 +4160,7 @@
 ჩვენ¹ (sich) zeigen
 ჩვენ² verfluchen
 ჩვი(ვ) s. ჩვე(ვ)
-ჩვილ sich erweichen l.
+ჩვილ sich erweichen lassen
 ჩვინთ(ვ)რ 1. (khar., mthiul.) die Nase rümpfen (über) 2. (moch.) schimpfen, tadeln
 ჩვრეტ durchlöchern
 ჩვრიტ s. ჩვრეტ
@@ -5048,7 +5048,7 @@
 ხავერდ samtartig grün werden
 ხავილ heisere Laute v. sich geben
 ხავლ s. ხავილ
-ხავრ (mthiul.) e-e Wunde anschwellen l.
+ხავრ (mthiul.) e-e Wunde anschwellen lassen
 ხავს sich mit Moos bedecken; {fig} veralten
 ხავსიან Bed. s. ხავს
 ხავხავ mit schwacher, heiserer Stimme sprechen
@@ -5084,7 +5084,7 @@
 ხარაზ das Schusterhandwerk betreiben
 ხარატ drechseln; mit Schnitzwerk versehen
 ხარბ 1. (hab)gierig sein od. werden 2. heftig begehren; neidisch sein
-ხარვეზ (khar.) ungepflügte Zwischenräume zwischen den Furchen l.
+ხარვეზ (khar.) ungepflügte Zwischenräume zwischen den Furchen lassen
 ხარისხ 1. (math.) potenzieren 2. sortieren
 ხარიხ verbarrikadieren
 ხარკ e-n Tribut auferlegen
@@ -5140,7 +5140,7 @@
 ხელისავ (chew., psch.) handzahm werden
 ხელმანკ e-e List anwenden, e-n üblen Streich spielen
 ხელმრუდ(ე) (umg.) klauen
-ხელმძღვანელ sich leiten l. (von); leiten
+ხელმძღვანელ sich leiten lassen (von); leiten
 ხელმწიფ herrschen
 ხელოვნ 1. e. Künstler sein; zum Meister (in seinem Fach) machen 2. sich bemühen
 ხელოსნ 1. e. Handwerk betreiben 2. (thusch.) (ethn.) die e-r Ikone zu weihende Gabe usw. segnen
@@ -5294,7 +5294,7 @@
 ხრაკ zu stark braten, verbrennen
 ხრამ e-e Schlucht bilden, unter-, weg-spülen
 ხრამუნ knuspernd (fr)essen
-ხრანტალ e. rasselndes Geräusch hören l. (beim Atmen); sich räuspern; {fig} et. Dummes sagen; et. aus plaudern
+ხრანტალ e. rasselndes Geräusch hören lassen (beim Atmen); sich räuspern; {fig} et. Dummes sagen; et. aus plaudern
 ხრანწ die Kehle verbrennen; e-e heis. Stimme bekommen
 ხრაშუნ knirschen
 ხრახნ mit e-r Schraube versehen; ein-, an- od. aus-schrauben
@@ -5380,7 +5380,7 @@
 ჯაგ¹ (kach.) Gesträuch beseitigen
 ჯაგ² † zureiten; dressieren (Pferd)
 ჯაგვნ s. ჯაგნ
-ჯაგლაგ trotten l.; ausgemergelt werden
+ჯაგლაგ trotten lassen; ausgemergelt werden
 ჯაგნ Trauben usw. auf e-n dünnen Zweig aufreihen
 ჯაგჯაგ Bed. s. ჩაქჩაქ
 ჯადო(ვ) bezaubern, behexen
@@ -5392,7 +5392,7 @@
 ჯალდ (moch., kach., psch.) übertreffen, besiegen
 ჯამ summieren
 ჯამბაზ Seiltänzerei treiben
-ჯანდაგ mager werden l. (Vieh)
+ჯანდაგ mager werden lassen (Vieh)
 ჯანდ(ვ)რ 1. (mit dem ჯანდარი) formen (Strümpfe) 2. glatt rollen (Wäsche) 3. (imer.) mit Asche reinigen
 ჯანიან kräftig/gesund werden
 ჯანმრთელ Bed. s. ჯანსაღ
@@ -5459,7 +5459,7 @@
 ჯიქ starrköpfig/hartnäckig sein
 ჯიღჯიღ Bed. s. ჯიყჯიყ
 ჯიყჯიყ 1. unschön/undeutl. sprechen 2. holpern
-ჯიშ entarten; aussterben l.
+ჯიშ entarten; aussterben lassen
 ჯიჯგნ zerfleischen
 ჯიჯინ unaufhörl., lästig reden; näseln
 ჯიჯღინ mit unzufried. Ton od. undeutl. sprechen
