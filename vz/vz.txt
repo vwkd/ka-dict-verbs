@@ -1562,7 +1562,7 @@
 ლაჯუნ s. ლაჯ
 ლბ (er)weichen; weich werden (a. {fig})
 ლბილ s. რბილ
-ლე(ვ) 1. ab-wetzen, -nutzen; ver-, auf-brauchen, erschöpfen; beend(ig)en; zurücklegen (z.B. Strecke); (eine best. Zeit wo) verbringen 2. sich abnutzen; zu Ende/zur Neige gehen 3. trinken; tränken 4. ausrotten, vernichten 5. etwas einsetzen/opfern
+ლე(ვ) 1. ab-wetzen, -nutzen; ver-, auf-brauchen, erschöpfen; beend(ig)en; zurücklegen (z.B. Strecke); (eine bestimmte Zeit wo) verbringen 2. sich abnutzen; zu Ende/zur Neige gehen 3. trinken; tränken 4. ausrotten, vernichten 5. etwas einsetzen/opfern
 ლეკ¹ fort-, über-schwemmen
 ლეკ² s. ლექ
 ლელეჩ {khar.} abkühlen
@@ -1986,7 +1986,7 @@
 მყვირტ bitter/ranzig werden
 მყიფ 1. brüchig/spröde werden 2. † spröde/stolz werden
 მყნ pfropfen, okulieren, veredeln
-მყოფ jemanden (in einem best. Zustand) lassen; sich wo befinden, sein, weilen
+მყოფ jemanden (in einem bestimmten Zustand) lassen; sich wo befinden, sein, weilen
 მყოფინ mit etwas auskommen
 მყრალ verstänkern; beginnen zu stinken
 მშ¹ s. მშე(ვ)¹
@@ -2951,7 +2951,7 @@
 ტიტყნ unschön kneten; (in der Hand) zerquetschen
 ტიშ {khar.} rasch weglaufen
 ტიხ(ვ)რ abteilen
-ტიხტიხ mit knarrendem Lautrufen (von best. Vögeln); {fig} lärmen
+ტიხტიხ mit knarrendem Lautrufen (von bestimmten Vögeln); {fig} lärmen
 ტკაცუნ knacken, knistern, knattern, knallen
 ტკბ (ver)süssen
 ტკბანურ s. ტკბარუნ
@@ -3816,7 +3816,7 @@
 ყალბ Falsches tun; fälschen
 ყალთაბანდ gaunern
 ყალიბ giessen (Metall)
-ყამირ Boden (eine best. Zeitlang) brachliegen lassen
+ყამირ Boden (eine bestimmte Zeitlang) brachliegen lassen
 ყანდ faulen, morsch werden
 ყანთ(ვ)რ {imer.} sich dieser od. jener Seite zuneigen (von der Waage)
 ყანყალ {imer., gur.} 1. wackeln 2. müssig umhergehen
@@ -4252,7 +4252,7 @@
 ჩუჩხუნ {umg.} Bed. s. ჩუჩხურ
 ჩუჩხურ 1. stochern; mit dem Stock stossen/plagen 2. {fig} {umg.} in jemanden dringen
 ჩუხჩუხ plätschern, rauschen, sprudeln; brodeln
-ჩქამ ein best. Geräusch machen
+ჩქამ ein bestimmtes Geräusch machen
 ჩქარ Eile haben; beschleunigen
 ჩქაფუნ plätschern, ein klatschendes Geräusch machen
 ჩქაფჩქაფ wallen, brodeln
@@ -5095,7 +5095,7 @@
 ხას † Kühnheit an den Tag legen
 ხასიათ 1. charakterisieren 2. Lust haben
 ხასრ {psch.} Gischt sprühen
-ხასხას in einer best. Farbe leuchten
+ხასხას in einer bestimmten Farbe leuchten
 ხატ 1. malen, zeichnen 2. darstellen; ausdrücken 3. zieren
 ხაფ(ვ)რ I. {kach., psch.} 1. verderben, zugrunde richten 2. besetzen, versperren II. {umg.} in die Tiefe stürzen, verschwinden
 ხაფხაფ blubbern, wallen, brodeln
