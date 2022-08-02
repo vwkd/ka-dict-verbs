@@ -648,7 +648,7 @@
 დევ¹ s. დ
 დევ² ein Riese werden; anschwellen (von einem Fluss)
 დევ³ s. დევნ
-დევნ (ver-)treiben, -jagen, -folgen
+დევნ (ver-)treiben, (ver-)jagen, (ver-)folgen
 დეზერტირ desertieren
 დემოკრატ ein Demokrat sein
 დემორალიზ demoralisieren
@@ -1210,7 +1210,7 @@
 კასკას schallend lachen
 კატუნ sich verstellen, simulieren
 კაუჭ (hakenförmig) krümmen, biegen
-კაფ 1. (zer-, ab-)hauen, -hacken; niedersäbeln 2. beschneiden, stutzen
+კაფ 1. (zer-, ab-)hauen, (zer-, ab-)hacken; niedersäbeln 2. beschneiden, stutzen
 კაფია aus dem Stegreif sprechen
 კაშკაშ 1. strahlen, glänzen, funkeln 2. blitzblank putzen
 კაც 1. ein (wahrer) Mensch/human sein; mannhaft sein 2. mannbar werden 3. {rl.} Mensch/Fleisch werden
@@ -1413,7 +1413,7 @@
 კრეჭ¹ scheren; stutzen
 კრეჭ² die Zähne fletschen; grinsen
 კრეხ¹ knabbern
-კრეხ² † (aus-)rauben, -plündern
+კრეხ² † (aus-)rauben, (aus-)plündern
 კრთ s. კრთომ
 კრთიმლ kämpfen, wetteifern
 კრთოლ s. კრთომ
@@ -1465,7 +1465,7 @@
 კულულ (sich) locken, ondulieren
 კუმ zusammenpressen, ballen
 კუმეტ sich verfinstern
-კუმშ zusammenpressen, -knüllen, ballen; zusammenziehen
+კუმშ zusammenpressen, zusammenknüllen, ballen; zusammenziehen
 კუნკულ trippeln
 კუნტ sich zusammenkrümmen; (sich) kauern
 კუნტრუშ Sprünge machen, sich tummeln, tänzeln
@@ -1485,7 +1485,7 @@
 კურცხალ {imer., ratsch.} dicke Tränen vergiessen
 კურცხალა(ვ) {imer., ratsch.} s. კურცხალ
 კურცხვლ {umg.} s. კურცხლ¹
-კურცხლ¹ {umg.} (davon-)laufen, -rennen, -galoppieren
+კურცხლ¹ {umg.} (davon-)laufen, (davon-)rennen, (davon-)galoppieren
 კურცხლ² dicke Tränen vergiessen
 კუს die Augen rollen, glotzen
 კუსკუს unruhig/rastlos sein
@@ -2142,7 +2142,7 @@
 ნაღვლ traurig sein, sich grämen
 ნაღვლიან vergrämen, betrüben
 ნაღმ entminen; verminen
-ნაყ (zer-)stampfen, -stossen
+ნაყ (zer-)stampfen, (zer-)stossen
 ნაყოფიერ befruchten, fruchtbar machen od. werden
 ნაყრ etwas Weniges zu essen geben; den ärgsten Hunger stillen
 ნაშ verschlammen, versanden
@@ -2897,7 +2897,7 @@
 სხივოსნ strahlen, glänzen
 სხიპ s. სხეპ
 სხლ beschneiden (meist Reben)
-სხლეტ 1. abdrücken (z.B. Gewehrabzug) 2. (sich) losreissen, loslösen, ablösen, abbrechen 3. (aus-)gleiten, -rutschen; abprallen
+სხლეტ 1. abdrücken (z.B. Gewehrabzug) 2. (sich) losreissen, loslösen, ablösen, abbrechen 3. (aus-)gleiten, (aus-)rutschen; abprallen
 სხლიტ s. სხლეტ
 სხლტ s. სხლეტ
 სხლტომ s. სხლეტ
@@ -4231,7 +4231,7 @@
 ჩუგნ {imer., gur.} die Erde aufwühlen (von Schweinen)
 ჩუგულა(ვ) {khar.} herumwirtschaften
 ჩუკ {psch.} (ungeschickt) (herum)graben
-ჩულ 1. einem Reit- od. Zugtier eine Decke überwerfen; {fig.} warm anziehen od. zudecken 2. {khar.} abdichten 3. {khar.} (sich) verbergen 4. entweichen (von Luft aus etwas)
+ჩულ 1. einem Reittier od. Zugtier eine Decke überwerfen; {fig.} warm anziehen od. zudecken 2. {khar.} abdichten 3. {khar.} (sich) verbergen 4. entweichen (von Luft aus etwas)
 ჩუმ schweigen; vertuschen
 ჩუმავ 1. die gemolkene Milch (zum Buttern) zusammenschütten 2. sauer werden (von Milch)
 ჩუმათ {umg.} (eine Tat) geheimhalten
