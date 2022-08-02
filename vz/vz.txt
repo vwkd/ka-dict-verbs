@@ -932,7 +932,7 @@
 თაბაშირ gipsen
 თავ¹ s. თა
 თავ² beend(ig)en, zu Ende führen, erledigen
-თავად ein Fürst sein, sich wie ein F. benehmen; {fig} die führende Stellung einnehmen
+თავად ein Fürst sein, sich wie ein Fürst benehmen; {fig} die führende Stellung einnehmen
 თავაზ (über-, dar-)reichen, darbringen, anbieten
 თავგასულ sich frech/unverschämt benehmen
 თავდებ bürgen
@@ -954,7 +954,7 @@
 თავხედ sich unverschämt/frech benehmen, sich erdreisten
 თავხელ sich Zeit erübrigen
 თათბირ sich beraten, beratschlagen
-თათრ {hist.} zu einem Mohammedaner machen; ein M. werden
+თათრ {hist.} zu einem Mohammedaner machen; ein Mohammedaner werden
 თათუნ tätscheln, streicheln
 თათქუნ {umg.} schlagen
 თათხ¹ gehörig ausschimpfen
@@ -1472,7 +1472,7 @@
 კუნჩხ {imer., gur.} sich verkriechen
 კუნძ {gur.} sich bücken/ducken
 კუნწ(ვ)ლ 1. sich (traubenförmig) irgendwo anhängen 2. sich mit Büscheln/Trauben/Dolden (von Früchten) bedecken (Baum)
-კუნჭ 1. in eine Ecke drängen; sich in eine E. verkriechen 2. sich zusammenkauern
+კუნჭ 1. in eine Ecke drängen; sich in eine Ecke verkriechen 2. sich zusammenkauern
 კუპ(ვ)რ mit Pech/Teer bestreichen
 კუჟ s. ყუჟ
 კურდღლა(ვ) auf die Hasenjagd gehen
@@ -1512,7 +1512,7 @@
 ლალ {khar., kach.} 1. treiben (z.B. Vieh) 2. (wohin) ziehen, gehen
 ლალა(ვ) betreuen, pflegen
 ლამ¹ streben, trachten (nach)
-ლამ² mit Schlamm bedecken; mit S. bedeckt werden
+ლამ² mit Schlamm bedecken; mit Schlamm bedeckt werden
 ლამაზ schön sein od. werden; verschönern
 ლამბ (verloren) heften
 ლამიან mit Schlamm bedecken
@@ -1654,7 +1654,7 @@
 მალ¹ (sich) verstecken
 მალ² {psch.} schnell fortführen; eilig weggehen
 მალხაზ lebhaft/munter/graziös sein
-მამაკაც ein Mann sein, sich wie ein M. benehmen
+მამაკაც ein Mann sein, sich wie ein Mann benehmen
 მამასახლის das Amt des (Sippen-)Ältesten/Dorfschulzen bekleiden; das Familienoberhaupt sein
 მამაც mannhaft/mutig sein
 მამაძაღლ eine Kanaille/ein Gauner sein
@@ -1676,7 +1676,7 @@
 მარტო(ვ) vereinsamen (lassen)
 მარტოხელ jemanden allein in die Hände bekommen
 მარქაფ sich etwas (z.B. Pferd) als Reserve mitnehmen
-მარქსისტ ein Marxist sein, sich als M. aufspielen
+მარქსისტ ein Marxist sein, sich als Marxist aufspielen
 მარყუჟ eine Schlinge machen
 მარყუშ s. მარყუჟ
 მარჩიელ s. მკითხა(ვ)
@@ -1707,7 +1707,7 @@
 მახვილსიტყვა scharfsinnige Witze machen
 მახინჯ entstellen, verunstalten
 მახსოვრ sich etwas merken/einprägen
-მაჰმადიან zu einem Mohammedaner machen; ein M. werden
+მაჰმადიან zu einem Mohammedaner machen; ein Mohammedaner werden
 მბ s. მბობ
 მბობ sagen, sprechen; berichten, erzählen
 მბრძანებლ herrschen
@@ -1925,7 +1925,7 @@
 მუდარ inständig bitten, flehen
 მუმ(ვ)ლ {khar.} 1. zu Asche werden 2. blass werden
 მუნათ vorhalten, Vorwürfe machen
-მუნიან mit der Krätze anstecken; die K. bekommen
+მუნიან mit der Krätze anstecken; die Krätze bekommen
 მუნჯ (still)schweigen; stumm machen; verstummen
 მუჟუჟ marinieren
 მურ¹ russig/schwarz/schmutzig machen od. werden
@@ -2272,7 +2272,7 @@
 ორწვერ zwei Fäden zusammendrehen
 ორჭოფ zaudern
 ოს ermatten
-ოსტატ der Meister sein; ein M. werden (in einer Tätigkeit)
+ოსტატ der Meister sein; ein Meister werden (in einer Tätigkeit)
 ოტ in die Flucht schlagen
 ოფლიან in Schweiss bringen od. geraten
 ოქ(ვ)რ vergolden
@@ -2701,7 +2701,7 @@
 საუბრ plaudern
 საუზმ frühstücken
 საფლავ begraben
-საფრ in Deckung bringen; D. suchen
+საფრ in Deckung bringen; Deckung suchen
 საქმ 1. seinen Geschäften nachgehen 2. erbrechen, sich übergeben
 საქმიან seinen Geschäften nachgehen
 საქონლ mit Waren beliefern
@@ -3005,7 +3005,7 @@
 ტრაბახ prahlen
 ტრიალ 1. (sich) drehen 2. {fig} frisch ans Werk gehen 3. ausbrechen, entstehen, sich verbreiten
 ტრიზავ {umg.} verhohnepiepeln
-ტროვ {imer.} jemandes Lust erregen; L. verspüren
+ტროვ {imer.} jemandes Lust erregen; Lust verspüren
 ტროკ Lust verspüren
 ტრუ(ვ) Bed. s. ტროვ
 ტრუნ den Atem anhalten u. sich nicht regen
@@ -3435,7 +3435,7 @@
 ქარგ sticken
 ქარვ¹ zerstreuen, verscheuchen (z.B. Kummer)
 ქარვ² in einer kochenden Flüssigkeit rühren
-ქართველ sich als Georgier fühlen od. wie ein G. benehmen
+ქართველ sich als Georgier fühlen od. wie ein Georgier benehmen
 ქართულ 1. ins Georgische übertragen 2. durch die Blume sagen; das Gespräch ablenken
 ქარქარ sachte herumfliegen
 ქარშავ {psch.} todmüde werden
@@ -3905,7 +3905,7 @@
 ყმუყუნ blöken
 ყნოს riechen
 ყოვნ verweilen; verzögern
-ყოლ¹ 1. jemanden/ein Tier haben 2. jemanden/ein T. (od. Fahrzeug) wohin führen, bringen, fahren
+ყოლ¹ 1. jemanden/ein Tier haben 2. jemanden/ein Tier (od. Fahrzeug) wohin führen, bringen, fahren
 ყოლ² 1. folgen, begleiten 2. amüsieren
 ყოლ³ erzählen
 ყოლი¹ s. ყოლ¹
@@ -4109,7 +4109,7 @@
 შხივილ 1. ein schwirr., saus. Geräusch machen, rauschen 2. zischen, brutzeln
 შხივლ s. შხივილ
 შხიპ-შხიპ {khis.} brutzeln
-შხლართ sich der Länge nach ausstrecken; der L. nach hinstürzen
+შხლართ sich der Länge nach ausstrecken; der Länge nach hinstürzen
 შხრიალ rauschen (von stark fliess. Wasser)
 შხუ s. შხუილ
 შხუვლ s. შხუილ
@@ -5129,7 +5129,7 @@
 ხევისბერ die Würde eines ხევისბერი innehaben
 ხეთქ 1. hervor-brechen, -quellen 2. spalten, zum Bersten bringen; entzweibrechen; schrundig werden 3. fressen (od. saufen) 4. (auf etwas) schmettern/werfen, stossen (gegen); an-, zusammen-prallen
 ხეიბრ verkrüppeln
-ხეირ 1. einen Gewinn haben; G. bringen 2. gedeihen
+ხეირ 1. einen Gewinn haben; Gewinn bringen 2. gedeihen
 ხელ¹ 1. ausbessern (Dach) 2. lange kneten 3. bearbeiten (Leder od. Garten usw.) 4. be-, an-rühren 5. in die Hände bekommen, (vor)finden
 ხელ² 1. rasen, toben; verrückt werden 2. anspornen
 ხელ³ die Augen öffnen
@@ -5338,7 +5338,7 @@
 ხუ² s. ხუილ
 ხუვლ s. ხუილ
 ხუთ 1. beklemmen; stickig werden 2. {fig} einengen 3. steif werden (in den Knien) 4. {khis.} sich etwas (Gelieh.) aneignen; nicht aus- od. zurück-bezahlen
-ხუთ(ვ)რ an Kohlengas ersticken; (von K.) stickig werden
+ხუთ(ვ)რ an Kohlengas ersticken; (von Kohlengas) stickig werden
 ხუილ rauschen, tosen
 ხულ {mthiul.} mit zusammengelegten Flügeln niederschiessen (Raubvogel)
 ხულუზს {psch.} Bed. s. ხულ; auf die Beute stossen
