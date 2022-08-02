@@ -1149,7 +1149,7 @@
 იმედულ s. იმედეულ
 ინვალიდ invalid machen od. werden
 ინვენტარ inventarisieren
-ინსპექტორ das Amt e-s Inspektors innehaben
+ინსპექტორ das Amt eines Inspektors innehaben
 ინტენსიურ intensivieren, steigern
 ინტერეს (sich) interessieren
 ინტრიგან intrigieren, Ränke schmieden
@@ -1310,7 +1310,7 @@
 კილ bemängeln, bekritteln, tadeln
 კინკილ(ა) 1. auf einem Bein hüpfen 2. allein umher schweifen
 კინკლა(ვ) sich necken/herumzanken
-კინტო(ვ) {vulg.} die Art e-s Kinto annehmen
+კინტო(ვ) {vulg.} die Art eines Kinto annehmen
 კინძ aufreihen; broschieren, heften, (ein)binden
 კინწლა(ვ) {imer.} sich necken/herum zanken
 კიჟ blinzeln
@@ -3548,7 +3548,7 @@
 ქონ² einfetten; {fig} j-n schmieren; j-m schmeicheln
 ქონი s. ქონ¹
 ქონიან fettig machen od. werden
-ქორ die Eigenschaften e-s Habichts aufweisen, räuberisch sein
+ქორ die Eigenschaften eines Habichts aufweisen, räuberisch sein
 ქორქორ {psch.} j-n auf Händen tragen
 ქორწილ¹ Hochzeit feiern
 ქორწილ² {khar.} es bildet sich e. Abszess
@@ -3912,7 +3912,7 @@
 ყოლი² s. ყოლ²
 ყომარბაზ Glücksspiel spielen
 ყორ 1. e. Loch in der Mauer ausfüllen; mit Steinschutt füllen; mit Bruchsteinen ausmauern 2. {fig} sich voll(fr)essen
-ყორუღ einen Teil einer Heuwiese od. e-s Waldes abgrenzen
+ყორუღ einen Teil einer Heuwiese od. eines Waldes abgrenzen
 ყორღნ (durch Steinhaufen) abgrenzen
 ყოფ¹ 1. † tun, machen 2. (hinaus- usw.) strecken, (hinein- usw.) stekken 3. teilen
 ყოფ² s. ყოფნ¹
@@ -4698,7 +4698,7 @@
 წილიან nissig werden
 წინააღმდეგ nicht einverstanden sein, im Gegensatz stehen
 წინამძღვრ (an)führen
-წინამძღოლ 1. (an)führen 2. das Amt e-s Adelsmarschalls inne haben 3. das Amt e-s Abts innehaben
+წინამძღოლ 1. (an)führen 2. das Amt eines Adelsmarschalls inne haben 3. das Amt eines Abts innehaben
 წინასწარმეტყველ prophezeien
 წინაურ 1. (an)führen 2. befördern
 წინდ 1. verpfänden 2. zur Ehe versprechen
@@ -5126,7 +5126,7 @@
 ხევ¹ zer-, ab-reissen
 ხევ² zurückweichen; zurückdrängen
 ხევ³ steif werden; erstarren
-ხევისბერ die Würde e-s ხევისბერი innehaben
+ხევისბერ die Würde eines ხევისბერი innehaben
 ხეთქ 1. hervor-brechen, -quellen 2. spalten, zum Bersten bringen; entzweibrechen; schrundig werden 3. fressen (od. saufen) 4. (auf et.) schmettern/werfen, stossen (gegen); an-, zusammen-prallen
 ხეიბრ verkrüppeln
 ხეირ 1. einen Gewinn haben; G. bringen 2. gedeihen
