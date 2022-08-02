@@ -4873,7 +4873,7 @@
 ჭაშნიკ 1. Wein kosten 2. missbilligen
 ჭაჭ 1. aus Leibeskräften schreien 2. sich anstrengen 3. sich aufblasen
 ჭაჭან nicht zulassen
-ჭაჭყან mit unangen. Stimme laut sprechen
+ჭაჭყან mit unangenehmer Stimme laut sprechen
 ჭახრაპ anschrauben; deichseln
 ჭახუნ krachen, knallen
 ჭახჭახ¹ 1. schrille Töne ausstossen (von Vögeln) 2. krachen
@@ -4935,9 +4935,9 @@
 ჭიქ glasieren (Töpferwaren)
 ჭიჭ zusammenschrumpfen
 ჭიჭვნ s. ჭიჭნ
-ჭიჭინ 1. (unangen.) hohe, klag. Töne von sich geben (ზურნა); {fig} in jamm. Ton sprechen 2. blubbern
+ჭიჭინ 1. (unangenehme) hohe, klag. Töne von sich geben (ზურნა); {fig} in jamm. Ton sprechen 2. blubbern
 ჭიჭნ ein Grübchen (in der Wange) bekommen
-ჭიჭყინ (unangen.) hohe, klag. Töne von sich geben (ზურნა); dudeln; {fig} in jamm. Ton sprechen
+ჭიჭყინ (unangenehme) hohe, klag. Töne von sich geben (ზურნა); dudeln; {fig} in jamm. Ton sprechen
 ჭიჭყნ unsorgfältig waschen; unordentlich kneten; klecksen
 ჭიხვინ wiehern
 ჭიხჭიხ 1. rauschen 2. {imer.} hell lachen
@@ -4992,7 +4992,7 @@
 ჭუჭკნ jemanden fest einhüllen (in)
 ჭუჭყიან schmutzig machen od. werden
 ჭუჭყნ Bed. s. ჭიჭყნ
-ჭუჭყუნ (unangen.) hohe, klag. Töne von sich geben (ზურნა); {fig} brummen, quengeln
+ჭუჭყუნ (unangenehme) hohe, klag. Töne von sich geben (ზურნა); {fig} brummen, quengeln
 ჭუხ die Brauen runzeln
 ჭყა(ვ) s. ჭყავილ
 ჭყავილ heulen, jaulen, schreien
@@ -5009,7 +5009,7 @@
 ჭყვინ {psch.} s. ჭყვენ
 ჭყვირ s. ჭყვირილ
 ჭყვირილ quieken, quietschen, kreischen
-ჭყვიტინ quieken; (unangen.) hohe, klag. Töne von sich geben (ზურნა); dudeln
+ჭყვიტინ quieken; (unangenehme) hohe, klag. Töne von sich geben (ზურნა); dudeln
 ჭყვლეპ mit der Hand zerdrücken (Gemüse)
 ჭყვლიპ s. ჭყვლეპ
 ჭყი(ვ) s. ჭყივილ
@@ -5168,7 +5168,7 @@
 ხვდინ {gur., imer.} s. ხვედრ
 ხვდომ s. ხვედრ
 ხვე s. ხვევ
-ხვედრ 1. treffen, schlagen, stossen 2. vorfinden (lassen) 3. entgegenschicken 4. zusprechen 5. etwas (Unangen.) über jemanden bringen 6. begreifen, erraten 7. wohin geraten 8. erwarten, empfangen 9. stossen (auf), begegnen; jemandem zustossen
+ხვედრ 1. treffen, schlagen, stossen 2. vorfinden (lassen) 3. entgegenschicken 4. zusprechen 5. etwas (Unangenehmes) über jemanden bringen 6. begreifen, erraten 7. wohin geraten 8. erwarten, empfangen 9. stossen (auf), begegnen; jemandem zustossen
 ხვევ 1. einwickeln; aufwickeln; zusammenrollen 2. abbiegen (von Weg) 3. {gur.} infizieren 4. sich schlingen (um); um-fassen, -armen 5. sich stürzen (auf), herfallen (über), umringen
 ხველ husten; sich räuspern
 ხვეტ (mit der Schaufel usw.) saubermachen; {imer., gur.} fegen, kehren
