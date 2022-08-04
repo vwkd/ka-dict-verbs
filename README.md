@@ -2,13 +2,15 @@
 
 German-Georgian dictionary of verb roots
 
+Note: It hasn't been proofread and may contain errors.
+
 
 
 ## History
 
-The original source (`orig` branch) is Kita Tschenkeli's Georgisch-Deutsches Wörterbuch with the "Verzeichnis der Verbwurzeln" at the end of the chapter of each letter. The OCR scan was error corrected due to many characters being misrecognized. Also any printing errors found in the original source were corrected.
+The source (`orig` branch) is Kita Tschenkeli's Georgisch-Deutsches Wörterbuch with the "Verzeichnis der Verbwurzeln" at the end of the chapter of each letter. The OCR scan was heavily manually error corrected. This may have overlooked some errors or have introduced new ones. Also printing errors found in the source were corrected, but there might be more not yet found.
 
-The current source (`main` branch) is transformed for today, like using modern German grammar, expanded shorthands, and consistent sytax.
+The transformed source (`main` branch) is adapted for a modern digital dictionary. Due to no space constraints shorthands can be expanded which allows search. Consistent tag syntax allows to parse entries more easily. Also modern German grammar is used. This may have introduced new errors.
 
 Note, if the `orig` branch evolves, e.g. to fix a error found only later, then `main` is rebased on top of it.
 
@@ -16,9 +18,7 @@ Note, if the `orig` branch evolves, e.g. to fix a error found only later, then `
 
 ## Contribution
 
-Any help is greatly appreciated.
-
-Especially helpful would be to compare the original source against the book to find any overlooked errors from OCR or printing.
+Any help is greatly appreciated. Especially helpful would be to proofread and find any missing errors.
 
 
 
