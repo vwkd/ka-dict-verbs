@@ -632,7 +632,7 @@
 დგენ 1. wiederherstellen, wiederaufbauen 2. wiedereinsetzen 3. beschließen, festsetzen 4. zusammenstellen, verfassen 5. vorlegen, vorbringen, vorschlagen 6. darstellen, vorstellen, repräsentieren
 დგერ {va.} s. დგრომ
 დგინ s. დგენ
-დგომ A. 1. stehen 2. wohnen, sich (irgendwo) befinden 3. (bei jemandem) im Dienst stehen 4. herrschen (z.B. Hitze) 5. (be)schützen, hüten B. 1. sich (hin)stellen, treten 2. Aufenthalt nehmen 3. in den Dienst treten 4. aufstehen, sich erheben 5. in den Aufstand treten 6. auferstehen, zu neuem Leben erwachen 7. zurücktreten; sich (in die Einsamkeit) zurückziehen 8. eintreten, einsetzen (z.B. Zeitabschnitt) 9. sich herausstellen (als) 10. nützlich/von Nutzen sein 11. werden, entstehen, sich entwickeln (zu)
+დგომ 1. stehen 2. wohnen, sich (irgendwo) befinden 3. (bei jemandem) im Dienst stehen 4. herrschen (z.B. Hitze) 5. (be)schützen, hüten 6. sich (hin)stellen, treten 7. Aufenthalt nehmen 8. in den Dienst treten 9. aufstehen, sich erheben 10. in den Aufstand treten 11. auferstehen, zu neuem Leben erwachen 12. zurücktreten; sich (in die Einsamkeit) zurückziehen 13. eintreten, einsetzen (z.B. Zeitabschnitt) 14. sich herausstellen (als) 15. nützlich/von Nutzen sein 16. werden, entstehen, sich entwickeln (zu)
 დგომილ verweilen, wohnen
 დგომინ s. დგომილ
 დგრ {va.} s. დგრომ
@@ -5097,7 +5097,7 @@
 ხასრ {psch.} Gischt sprühen
 ხასხას in einer bestimmten Farbe leuchten
 ხატ 1. malen, zeichnen 2. darstellen; ausdrücken 3. zieren
-ხაფ(ვ)რ I. {kach., psch.} 1. verderben, zugrunde richten 2. besetzen, versperren II. {umg.} in die Tiefe stürzen, verschwinden
+ხაფ(ვ)რ {kach., psch.} 1. verderben, zugrunde richten 2. besetzen, versperren 3. {umg.} in die Tiefe stürzen, verschwinden
 ხაფხაფ blubbern, wallen, brodeln
 ხაშლ {khis.} krank u. mager werden (Vieh)
 ხაშმ 1. von Sumpfgas vergiftet sein 2. an Malaria erkranken
