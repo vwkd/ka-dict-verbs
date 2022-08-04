@@ -81,7 +81,7 @@
 ბ binden
 ბაას sich unterhalten
 ბაბან zittern, beben
-ბაგ {khar.} 1. ausputzen (Krippe) 2. setzen (junge Weinreben)
+ბაგ 1. {khar.} ausputzen (Krippe) 2. {khar.} setzen (junge Weinreben)
 ბაგბაგ {psch.} zittern, beben
 ბაგუნ trappeln, trampeln
 ბად gebären; verursachen
@@ -256,7 +256,7 @@
 ბობღინ {imer.} brummen
 ბოგინ sich aufhalten, sein Leben fristen
 ბოდ im Fieber/Schlaf phantasieren
-ბოდიალ {imer.} 1. umherstreifen 2. faseln
+ბოდიალ 1. {imer.} umherstreifen 2. {imer.} faseln
 ბოდიშ sich entschuldigen
 ბოზ ein ausschweifendes Leben führen
 ბოინ {psch., chew.} schweben (Vögel)
@@ -349,7 +349,7 @@
 ბრჯინ s. ბჯენ
 ბტყვნ s. ბდღვნ
 ბუ¹ auslachen, verlachen
-ბუ² {kach.} 1. aufschütteln 2. anschwellen
+ბუ² 1. {kach.} aufschütteln 2. {kach.} anschwellen
 ბუ³ s. ბუილ
 ბუბ(ვ)ნ verhauen
 ბუბკო(ვ) kleistern
@@ -717,7 +717,7 @@
 დღვებ zu Butter schlagen/rühren
 დღვიბ s. დღვებ
 დღლაშ {imer.} sich (unmanierlich) hinstrecken
-დღლეზ {umg.} 1. zerreißen, zerfetzen 2. versetzen (z.B. Schlag)
+დღლეზ 1. {umg.} zerreißen, zerfetzen 2. {umg.} versetzen (z.B. Schlag)
 დღლიზ {umg.} s. დღლეზ
 დღლუვ {umg.} breiigweich/teigig/(zäh)flüssig machen
 ელ blitzen
@@ -786,7 +786,7 @@
 ვახშმ zu Abend essen
 ვედ s. სვლ
 ვედრ inständig bitten, flehen
-ვეზირ {va.} 1. ein Wesir sein 2. zu Rate sitzen, beratschlagen
+ვეზირ 1. {va.} ein Wesir sein 2. {va.} zu Rate sitzen, beratschlagen
 ველ¹ s. სვლ
 ველ² {kach.} (mit dem Pflug) breite Furchen ziehen
 ველურ verwildern/verwahrlosen lassen; verwildern, verwahrlosen
@@ -873,7 +873,7 @@
 ზლაზვნ s. ზლაზნ
 ზლაზნ sich lässig/träge/langsam bewegen, trödeln
 ზლუქუნ schluchzen
-ზმ¹ {va.} 1. tun 2. (ver)bleiben
+ზმ¹ 1. {va.} tun 2. {va.} (ver)bleiben
 ზმ² Wortspiele machen, kalauern
 ზმან¹ messen
 ზმან² im Traum erscheinen
@@ -895,7 +895,7 @@
 ზრ erfrieren (lassen); abfrieren
 ზრახ 1. sinnen, denken; beabsichtigen, planen 2. tadeln 3. (an)sprechen 4. (an)raten; aufreizen, aufhetzen
 ზრდ 1. erziehen; aufziehen, züchten 2. vergrößern, vermehren 3. heranwachsen, aufwachsen; wachsen, größer werden, zunehmen, sich vermehren
-ზრზენ {va.} 1. erzittern, schaudern 2. Abscheu/Widerwillen empfinden
+ზრზენ 1. {va.} erzittern, schaudern 2. {va.} Abscheu/Widerwillen empfinden
 ზრზინ {va.} s. ზრზენ
 ზრზნ {va.} s. ზრზენ
 ზრიალ klirren, tönen, klingen, schallen; beben, schüttern, zittern
@@ -1069,7 +1069,7 @@
 თოხარიკ den Passgang gehen
 თოხნ mit der Hacke bearbeiten, jäten
 თრ betrunken machen; {fig.} trunken machen, berauschen; einen Rausch bekommen
-თრაქ {imer., khis.} 1. {imer.} etwas (Schweres) mühsam schleppen 2. {khis.} durchwühlen (beim Suchen)
+თრაქ 1. {imer.} etwas (Schweres) mühsam schleppen 2. {khis.} durchwühlen (beim Suchen)
 თრაშ schleifen, facettieren
 თრგუნ 1. zertreten 2. unterdrücken, niederwerfen; besiegen
 თრევ 1. schleppen, schleifen, ziehen 2. {fig.} beschimpfen, verlästern 3. sich herumtreiben, herumschlendern; {desp.} sich scheren/packen
@@ -1113,7 +1113,7 @@
 თხაპნ beschmutzen, verschmieren
 თხარ¹ s. თხრ
 თხარ² s. მბობ
-თხე(ვ) {va.} 1. vergießen (z.B. Blut) 2. {psch.} verlieren
+თხე(ვ) 1. {va.} vergießen (z.B. Blut) 2. {va., psch.} verlieren
 თხევად {phys.} (sich) verflüssigen
 თხელ 1. dünn(er) machen od. werden 2. (dünn)flüssig machen, verdünnen, (sich) verflüssigen 3. (sich) lichten (z.B. Wald)
 თხვარ {umg.} s. თხვრ
@@ -1175,7 +1175,7 @@
 კაკ s. კაკვ
 კაკან 1. gackern; balzen 2. schnattern, plappern 3. knattern
 კაკვ (sich) biegen/beugen/krümmen
-კაკ(ვ)ლ {imer.} 1. auskörnen, ausbeeren 2. Walnüsse von der grünen Schale befreien 3. haarklein erzählen
+კაკ(ვ)ლ 1. {imer.} auskörnen, ausbeeren 2. {imer.} Walnüsse von der grünen Schale befreien 3. {imer.} haarklein erzählen
 კაკუნ (an)klopfen, pochen
 კალ¹ 1. oxidieren lassen 2. verzinnen
 კალ² s. კლ¹
@@ -1292,7 +1292,7 @@
 კვნეტ nagen, beißen, knacken
 კვნიტ s. კვნეტ
 კვრ s. კრ
-კვრეხ {imer.} 1. knacken, knabbern 2. vertun (Vermögen)
+კვრეხ 1. {imer.} knacken, knabbern 2. {imer.} vertun (Vermögen)
 კვრიხ {imer.} s. კვრეხ
 კიალ glänzen, schimmern, leuchten
 კიანთ {imer., gur.} glänzen, strahlen, leuchten
@@ -1317,7 +1317,7 @@
 კიჟინ 1. ein (Kriegs- od. Sturm-)Geschrei erheben 2. mit Geschrei (od. Beschuldigungen) herfallen (über)
 კირ mit einer Mischung von Lehm u. Kalk bestreichen; ausmauern
 კირიან {landw.} düngen, kalken
-კირკილ {imer.} 1. murmeln (Quelle) 2. hell lachen
+კირკილ 1. {imer.} murmeln (Quelle) 2. {imer.} hell lachen
 კირკიტ aufmerksam etwas tun; arg hinter etwas her sein; piesacken
 კირკნ {imer.} unsorgfältig umgraben; lässig/widerwillig etwas tun
 კირცხ(ვ)ლ nachäffen
@@ -1384,7 +1384,7 @@
 კორიკ {khar.} wackeln
 კორკოტ 1. {khar., kach.} würgen (Tränen) 2. {imer.} begehren
 კორტნ 1. (mit dem Schnabel) picken/hacken; (ab)rupfen 2. grob behauen (Holz); unschön stutzen (Haar)
-კოს {umg.} 1. etwas (Kleines) aufsetzen (so dass es komisch aussieht) 2. unbeweglich sitzenbleiben od. stehenbleiben
+კოს 1. {umg.} etwas (Kleines) aufsetzen (so dass es komisch aussieht) 2. {umg.} unbeweglich sitzenbleiben od. stehenbleiben
 კოტ sich unruhig hin u. her bewegen
 კოტავ {imer., gur.} aufstreifen, aufkrempeln
 კოტიტ dick/drall werden (z.B. Beine)
@@ -1461,7 +1461,7 @@
 კუკნ mit kleinen Bissen essen, knabbern
 კუკუნ {khis.} mühsam/langsam arbeiten
 კულ {psch.} die Augen halb zukneifen
-კულაკ {nz.} 1. entkulakisieren 2. zum Kulaken werden
+კულაკ 1. {nz.} entkulakisieren 2. {nz.} zum Kulaken werden
 კულულ (sich) locken, ondulieren
 კუმ zusammenpressen, ballen
 კუმეტ sich verfinstern
@@ -1509,7 +1509,7 @@
 ლაზღანდარა(ვ) s. ლაზღანდარ
 ლათაი 1. Fabeln/Gleichnisse erzählen 2. gerne flunkern
 ლაკლუკ {psch.} schmeicheln
-ლალ {khar., kach.} 1. treiben (z.B. Vieh) 2. (wohin) ziehen, gehen
+ლალ 1. {khar., kach.} treiben (z.B. Vieh) 2. {khar., kach.} (wohin) ziehen, gehen
 ლალა(ვ) betreuen, pflegen
 ლამ¹ streben, trachten (nach)
 ლამ² mit Schlamm bedecken; mit Schlamm bedeckt werden
@@ -1923,7 +1923,7 @@
 მტუტ trüben (Wasser); {fig.} in Aufregung versetzen
 მტყუნ 1. beschuldigen 2. täuschen
 მუდარ inständig bitten, flehen
-მუმ(ვ)ლ {khar.} 1. zu Asche werden 2. blass werden
+მუმ(ვ)ლ 1. {khar.} zu Asche werden 2. {khar.} blass werden
 მუნათ vorhalten, Vorwürfe machen
 მუნიან mit der Krätze anstecken; die Krätze bekommen
 მუნჯ (still)schweigen; stumm machen; verstummen
@@ -1947,7 +1947,7 @@
 მუყაით strebsam/fleißig sein, sich eifrig bemühen
 მუშა(ვ) 1. (be-, aus-, durch-, ver-)arbeiten 2. funktionieren, laufen 3. herstellen 4. fördern (Erz)
 მუშაკ arbeiten, schaffen, tätig sein
-მუშტ {imer., gur.} 1. zur Faust ballen 2. (handvollweise) packen 3. mit Fäusten schlagen
+მუშტ 1. {imer., gur.} zur Faust ballen 2. {imer., gur.} (handvollweise) packen 3. {imer., gur.} mit Fäusten schlagen
 მუშტრ 1. jemandes Kunde werden 2. Konkurrenz machen
 მუწ {imer., gur.} zusammenkneifen (Lippen)
 მუწუკ sich mit Pickeln bedecken
@@ -2387,7 +2387,7 @@
 პროექტ projektieren
 პროლეტარ proletarisieren
 პროტესტ protestieren
-პროწიალ {umg.} 1. sich schnell im Kreis herumdrehen, wirbeln 2. ziellos umherlaufen
+პროწიალ 1. {umg.} sich schnell im Kreis herumdrehen, wirbeln 2. {umg.} ziellos umherlaufen
 პრტყელ s. ბრტყელ
 პრუწ 1. aufwerfen (Lippen); zusammenkneifen (Augen) 2. schlecht nähen (so dass es Falten wirft)
 პრწკენ s. პწკენ
@@ -2643,7 +2643,7 @@
 საბღუჯ packen, ergreifen (Schild)
 საბჭო(ვ) sowjetisieren
 საგზლ mit Reiseproviant versehen
-საგრ {va.} 1. Krieg führen 2. beschützen
+საგრ 1. {va.} Krieg führen 2. {va.} beschützen
 საგძლ s. საგზლ
 სადავ die Zügel lockern od. anziehen
 სადგურ 1. weilen, wohnen 2. (sich) einquartieren
@@ -2963,7 +2963,7 @@
 ტკეც 1. feststampfen, festtreten 2. jemanden durchwalken
 ტკვერ zerbeißen, zernagen
 ტკვირ s. ტკვერ
-ტკვლეც {imer.} 1. zerbrechen, zerschlagen 2. jemanden durchwalken
+ტკვლეც 1. {imer.} zerbrechen, zerschlagen 2. {imer.} jemanden durchwalken
 ტკვლიც {imer.} s. ტკვლეც
 ტკი(ვ) s. ტკენ
 ტკინ¹ s. ტკენ
@@ -3214,7 +3214,7 @@
 ფირალ {gur.} s. ყაჩაღ
 ფის teeren, pichen
 ფიტ ausdörren (lassen)
-ფიფინ {khar.} 1. zwitschern 2. rauschen
+ფიფინ 1. {khar.} zwitschern 2. {khar.} rauschen
 ფიფქ¹ sich mit trockenem Schnee bedecken
 ფიფქ² {o-imer.} auslaugen, entbasten (z.B. Rohseide)
 ფიქ(ვ)ლ mit Steinplatten belegen; mit Schiefer decken
@@ -3242,7 +3242,7 @@
 ფოთვლ s. ფოთლ
 ფოთიალ {imer.} herumirren, herumsuchen
 ფოთლ sich belauben
-ფოთნ {gur.} 1. tastend suchen 2. eine Handvoll (z.B. Beeren) abrupfen
+ფოთნ 1. {gur.} tastend suchen 2. {gur.} eine Handvoll (z.B. Beeren) abrupfen
 ფოკუს {umg.} Zauberkunststücke machen; {fig.} Listen anwenden
 ფოლ¹ 1. herabsetzen (Preis), vermindern 2. heruntermachen
 ფოლ² {imer., gur.} Hufspuren hinterlassen; mit dem Huf scharren
@@ -3345,7 +3345,7 @@
 ფუჩფუჩ {kach.} Bed. s. ჩიფჩიფ
 ფუცუნ¹ {khar.} zerfallen, verwittern
 ფუცუნ² {thusch., psch.} s. ფუსფუს
-ფუცქნ {ratsch., imer.} 1. rupfen; die Borsten ausreißen 2. schälen
+ფუცქნ 1. {ratsch., imer.} rupfen; die Borsten ausreißen 2. {ratsch., imer.} schälen
 ფუცხუნ 1. aufbrausen 2. perlen, prickeln 3. rügen
 ფუძნ (be)gründen; sich ansiedeln
 ფუჭ verderben
@@ -3427,7 +3427,7 @@
 ქანდაკ in Stein aushauen; schnitzen
 ქანც entkräften, ermüden
 ქანძურა {psch.} schaukeln, sich hin u. her schwingen
-ქანჯალ {imer., gur.} 1. jemanden kräftig schütteln 2. verrückt werden
+ქანჯალ 1. {imer., gur.} jemanden kräftig schütteln 2. {imer., gur.} verrückt werden
 ქარ¹ dummes Zeug reden
 ქარ² s. ქარვ¹
 ქარაგმ andeuten
@@ -3497,7 +3497,7 @@
 ქირა(ვ) mieten; vermieten
 ქირდ verhöhnen; tadeln, schmähen
 ქირს(ვ)ლ {psch.} (mit winzigen Flocken) schneien
-ქირქილ {imer., gur.} 1. sanft wehen 2. leise kichern
+ქირქილ 1. {imer., gur.} sanft wehen 2. {imer., gur.} leise kichern
 ქირქირ {imer., gur.} s. ქირქილ
 ქირქნ {imer.} (mit zahnlosem Mund) kauen
 ქირჩიმალ {imer.} Bed. s. ქიმუნჯ
@@ -3620,7 +3620,7 @@
 ღ² nehmen; empfangen, bekommen; aufnehmen; einnehmen; übernehmen
 ღად(ვ)რ zerkratzen, aufkratzen; (die Gurgel) durchschneiden
 ღადღად¹ (intensiv) strahlen
-ღადღად² {gur., imer.} 1. viel u. laut reden 2. laut u. fließend lesen
+ღადღად² 1. {gur., imer.} viel u. laut reden 2. {gur., imer.} laut u. fließend lesen
 ღავღავ 1. mit kurzen Tönen bellen 2. schimpfen, lärmen
 ღალ¹ s. ღლ
 ღალ² {imer., gur.} mit dem bösen Blick behexen
@@ -3735,7 +3735,7 @@
 ღორ¹ ein Vielfrass werden
 ღორ² {va.} betrügen, irreführen
 ღორღ zerklopfen (Steine)
-ღორღალ {khar.} 1. lärmen u. schreien 2. umherschweifen
+ღორღალ 1. {khar.} lärmen u. schreien 2. {khar.} umherschweifen
 ღორღნ s. ლოღნ
 ღორძინ eine Wiedergeburt erfahren
 ღოღ kriechen; {fig.} sich schleppen
@@ -3819,7 +3819,7 @@
 ყამირ Boden (eine bestimmte Zeit lang) brachliegen lassen
 ყანდ faulen, morsch werden
 ყანთ(ვ)რ {imer.} sich dieser od. jener Seite zuneigen (Waage)
-ყანყალ {imer., gur.} 1. wackeln 2. müßig umhergehen
+ყანყალ 1. {imer., gur.} wackeln 2. {imer., gur.} müßig umhergehen
 ყარ¹ s. ყროლ
 ყარ² s. ყრ
 ყარ³ {khis.} eitern (Euter beim Schaf)
@@ -3887,7 +3887,7 @@
 ყირავ auf den Kopf stellen, stürzen, kippen
 ყირჭ verleiden
 ყიყინ quaken; schnattern
-ყიჭინ {imer.} 1. lästig bitten u. betteln 2. mit Worten streiten
+ყიჭინ 1. {imer.} lästig bitten u. betteln 2. {imer.} mit Worten streiten
 ყიჭყიჭ kehlig sprechen
 ყლანწ {imer.} s. ყლურწ
 ყლაპ schlucken
@@ -4062,7 +4062,7 @@
 შოშმან s. შოშმინ
 შოშმინ beschwichtigen, beruhigen
 შოშნ {u-ratsch.} Erde lockern
-შპ {gur.} 1. das Fell abziehen 2. {fig.} hart bestrafen
+შპ 1. {gur.} das Fell abziehen 2. {gur., fig.} hart bestrafen
 შრ trocknen (lassen)
 შრატ gerinnen (Milch)
 შრაშუნ rauschen, knistern
@@ -4491,7 +4491,7 @@
 ცხუნ brennen, stechen (Sonne)
 ძ {va.} s. ძევ¹
 ძაბ (an)spannen; strecken
-ძაბ(ვ)რ {umg.} 1. gierig trinken 2. jemandem das Haupt abhauen
+ძაბ(ვ)რ 1. {umg.} gierig trinken 2. {umg.} jemandem das Haupt abhauen
 ძაბუნ 1. mutlos/feig werden 2. kraftlos werden
 ძაგ schlechtmachen; verabscheuen
 ძაგ(ვ)რ 1. (an)spannen 2. {umg.} binden, fesseln
@@ -4710,7 +4710,7 @@
 წიოკ 1. mit schriller, aufgeregter Stimme schreien 2. in Aufregung versetzen 3. (aus)plündern; verheeren
 წიპწიპ piepsen
 წირ 1. die Messe halten 2. opfern; spenden
-წირპ(ვ)ლ {umg.} 1. flennen 2. triefen (Augen)
+წირპ(ვ)ლ 1. {umg.} flennen 2. {umg.} triefen (Augen)
 წირპლიან triefen (Augen)
 წიტ zwischen den Zähnen ausspucken
 წიფ reifen
@@ -4802,7 +4802,7 @@
 წრუპუნ zuschnalzen
 წრუტ Bed. s. წრუპ
 წრუწრუნ 1. piepsen, quieken 2. jemandem übel mitspielen
-წრფ {va.} 1. ein wenig erschrecken 2. sich schämen
+წრფ 1. {va.} ein wenig erschrecken 2. {va.} sich schämen
 წრწ s. ძრწ¹
 წუ s. წუილ
 წუვლ s. წუილ
@@ -4997,7 +4997,7 @@
 ჭყა(ვ) s. ჭყავილ
 ჭყავილ heulen, jaulen, schreien
 ჭყავლ s. ჭყავილ
-ჭყამპალ {gur.} 1. planschen 2. plappern
+ჭყამპალ 1. {gur.} planschen 2. {gur.} plappern
 ჭყან Grimassen schneiden
 ჭყაპ 1. mit Kotspritzern beschmutzen 2. {umg.} einen kippen
 ჭყაპუნ ein patschendes Geräusch machen
@@ -5038,7 +5038,7 @@
 ხ² s. ხევ¹
 ხა s. ხავილ
 ხაბაზ Bäcker sein; Brot backen
-ხად¹ {va.} 1. halten (für) 2. Gott (od. einen Höhergestellten) anrufen
+ხად¹ 1. {va.} halten (für) 2. {va.} Gott (od. einen Höhergestellten) anrufen
 ხად² s. ხდ¹
 ხად³ s. ხდ²
 ხად⁴ s. ხდენ¹
@@ -5097,7 +5097,7 @@
 ხასრ {psch.} Gischt sprühen
 ხასხას in einer bestimmten Farbe leuchten
 ხატ 1. malen, zeichnen 2. darstellen; ausdrücken 3. zieren
-ხაფ(ვ)რ {kach., psch.} 1. verderben, zugrunde richten 2. besetzen, versperren 3. {umg.} in die Tiefe stürzen, verschwinden
+ხაფ(ვ)რ 1. {kach., psch.} verderben, zugrunde richten 2. {kach., psch.} besetzen, versperren 3. {kach., psch., umg.} in die Tiefe stürzen, verschwinden
 ხაფხაფ blubbern, wallen, brodeln
 ხაშლ {khis.} krank u. mager werden (Vieh)
 ხაშმ 1. von Sumpfgas vergiftet sein 2. an Malaria erkranken
@@ -5234,7 +5234,7 @@
 ხიხინ rasselnd atmen; heiser sprechen
 ხლ¹ berühren
 ხლ² 1. stoßen; werfen, schmettern; einen Schlag/Hieb versetzen 2. unerwartet begegnen
-ხლ³ {HV.} 1. Gefolgschaft leisten, begleiten 2. sein; vorhanden sein; sich (gut od. schlecht) befinden 3. speisen; trinken 4. vorsprechen (bei) 5. zukommen lassen
+ხლ³ 1. {HV.} Gefolgschaft leisten, begleiten 2. {HV.} sein; vorhanden sein; sich (gut od. schlecht) befinden 3. {HV.} speisen; trinken 4. {HV.} vorsprechen (bei) 5. {HV.} zukommen lassen
 ხლაკნ 1. drehen (z.B. Fäden) 2. sich schlängeln/winden
 ხლანძ brennen (z.B. Schnaps in der Kehle)
 ხლართ verwickeln, verwirren
@@ -5278,7 +5278,7 @@
 ხოტვრ s. ხოტრ
 ხოტონიკ schnöden
 ხოტრ scheren (Haar)
-ხოშ {psch.} 1. herunterschlagen (z.B. Nüsse) 2. trauern
+ხოშ 1. {psch.} herunterschlagen (z.B. Nüsse) 2. {psch.} trauern
 ხოშკაკლ in Schlossen hageln
 ხოც 1. (massenweise) töten/vernichten od. umkommen 2. abwischen, abtrocknen
 ხოჭ {moch.} anhäufen; erwerben
@@ -5421,7 +5421,7 @@
 ჯაჯ² {va.} foltern
 ჯაჯგურ rütteln, schütteln
 ჯაჯღან {umg.} in unzufriedenem Ton laut reden
-ჯგიმ {imer., gur.} 1. (an gut sichtbarer Stelle) erbauen 2. sich strecken; sich in Positur stellen
+ჯგიმ 1. {imer., gur.} (an gut sichtbarer Stelle) erbauen 2. {imer., gur.} sich strecken; sich in Positur stellen
 ჯგურ {imer.} Bed. s. ჯგუტ
 ჯგუტ {gur.} einen Stich versetzen
 ჯგუფ gruppieren; sich versammeln
