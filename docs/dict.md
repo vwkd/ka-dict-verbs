@@ -117,10 +117,3 @@
 },
 ]
 ```
-
-
-
-## Import
-
-- replace first space with unique separator, e.g. `^([^ ]+) ` with `$1@` and multiline match
-- import as CSV with unique separator
