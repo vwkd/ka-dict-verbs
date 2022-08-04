@@ -970,7 +970,7 @@
 თამთამ wabbeln, wackeln
 თანაბრ gleichmachen, ausgleichen, nivellieren; gleich-stellen, -setzen
 თანაზომიერ in Verhältnis setzen, proportionieren
-თანაშრომლ mit-arbeiten, -wirken
+თანამშრომლ mit-arbeiten, -wirken
 თანასწორ gleichmachen, ausgleichen, nivellieren; gleich-stellen, -setzen
 თანატოლ gleich-machen, -stellen, -setzen
 თანაღრ das Herz beklemmen, bedauern, unzufrieden sein
@@ -1144,7 +1144,7 @@
 იდიოტ schwachsinnig werden; verblöden
 იეფ s. იაფ
 იმედ hoffen
-იმედულ hoffen
+იმედეულ hoffen
 იმედიან s. იმედ
 იმედოვნ hoffen
 იმედულ s. იმედეულ
@@ -4007,8 +4007,8 @@
 შვილდ e-n Bückling m.
 შვირ s. შვერ¹
 შვლეპ 1. (imer.) plötzl. in et. hineinlangen od. treten 2. et. auf j-n niedersausen lassen 3. abrinden; abhäuten; die Blätter (v. e-m Ast) entfernen; wund schinden 4. den Hut rasch ziehen
-შვლიპ s. შვლეპ
 შვლეჭ 1. (imer.) das Schwert usw. ziehen od. auf j-n niedersausen lassen 2. (gur., imer.) übers Ohr hauen
+შვლიპ s. შვლეპ
 შვლიჭ (imer., gur.) s. შვლეჭ
 შვნ s. შნ
 შვნევ passend finden, als selbstverständl. betrachten; sich gewöhnen
