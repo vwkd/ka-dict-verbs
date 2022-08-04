@@ -21,12 +21,12 @@
 
 
 
-## Formatting (MAYBE)
+## Format
 
-- make comma field separator
-- clean up commas in fields, e.g. `x y, z q` to `x y q, x z q`, etc.
-- distribute ORs into fields, e.g. `X od. Y`, `X/Y`, etc.
-- distribute parentheses into fields, e.g. `(x)y` and `y(x)z`, etc.
+- (?) make comma field separator
+- (?) clean up commas in fields, e.g. `x y, z q` to `x y q, x z q`, etc.
+- (?) distribute ORs into fields, e.g. `X od. Y`, `X/Y`, etc.
+- (?) distribute parentheses into fields, e.g. `(x)y` and `y(x)z`, etc.
 
 
 
