@@ -54,7 +54,7 @@ X-Goog-User-Project: PROJECT-ID
     {
       "inputConfig": {
         "gcsSource": {
-          "uri": "gs://MY-BUCKET/MY-PDF-FILE.pdf"
+          "uri": "gs://MY-BUCKET/in.pdf"
         },
         "mimeType": "application/pdf"
       },
@@ -71,7 +71,7 @@ X-Goog-User-Project: PROJECT-ID
       },
       "outputConfig": {
         "gcsDestination": {
-          "uri": "gs://MY-BUCKET/"
+          "uri": "gs://MY-BUCKET/out/"
         },
         "batchSize": 1
       }
@@ -101,20 +101,21 @@ GET https://vision.googleapis.com/v1/operations/OPERATION_ID
 ## Scan
 
 - upload PDF to Google Cloud Bucket
+- create output folder in Google Cloud Bucket
 - run OCR by making HTTP request
 - download result JSON files
   - download files locally
 ```
 mkdir out
-gsutil -m cp -r "gs://BUCKET/" out
+gsutil -m cp -r "gs://ocr-test-999/out" out
 ```
   - create ZIP locally
 ```
-zip a.zip -r out
+zip out.zip -r out
 ```
   - upload ZIP to ephemeral file hoster API locally, e.g. ki.tc
 ```
-curl -F "file=@a.zip" https://ki.tc/file/u/
+curl -F "file=@out.zip" https://ki.tc/file/u/
 ```
   - download files
 
