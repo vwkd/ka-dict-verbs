@@ -1,6 +1,6 @@
 # README
 
-German-Georgian dictionary of verb roots
+Georgian-German dictionary of verb roots
 
 Note: It hasn't been proofread and may contain errors.
 
