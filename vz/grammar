@@ -38,9 +38,56 @@ TagValues
     TagValue , ws TagValues
     
 TagValue
+    biol.
+    bot.
+    chem.
+    chew.
+    desp.
+    elektr.
+    ethn.
+    fig.
+    gr.
+    gur.
+    hist.
+    HV.
+    imer.
+    ing.
+    iro.
+    jur.
+    kach.
+    khar.
+    khis.
+    landw.
+    letsch.
+    math.
+    med.
+    mil.
+    moch.
+    moral.
+    mthiul.
+    mus.
+    neg.
+    nz.
+    o-imer.
+    photogr.
+    phys.
+    poet.
+    pol.
+    psch.
+    ratsch.
+    rl.
+    spo.
+    tech.
+    thusch.
+    typ.
+    u-imer.
+    u-ratsch.
+    umg.
+    unk.
     va.
-    // ...
+    vulg.
     
+// todo: maybe more?
 Definitions
     Definition
     Definition2
@@ -51,7 +98,6 @@ Definitions
     Definition7
     Definition8
     Definition9
-    // ...
 
 Definition2
     1. ws Definition ws 2. Definition
@@ -65,7 +111,17 @@ Definition4
 Definition5
     Definition4 ws 5. ws Definition
     
-// ...
+Definition6
+    Definition5 ws 6. ws Definition
+
+Definition7
+    Definition6 ws 7. ws Definition
+
+Definition8
+    Definition7 ws 8. ws Definition
+    
+Definition9
+    Definition8 ws 9. ws Definition
 
 Definition
     Tags ws Options
@@ -98,7 +154,8 @@ CharKa
     
 CharGe
     UNICODE_GERMAN_CHARACTER
-    
+
+// todo: maybe more?
 SuperscriptNumber
     ¹
     ²
