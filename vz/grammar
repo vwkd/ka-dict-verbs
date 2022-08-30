@@ -1,0 +1,117 @@
+Text
+    Line
+    Line n Text
+
+Line
+    Key ws Value
+
+Key
+    WordKa
+    WordKa SuperscriptNumber
+
+Value
+    Reference
+    Definitions
+
+Reference
+    ReferenceDirect
+    ReferenceMeaning
+ReferenceIdentical
+
+ReferenceDirect
+    Tags ws Key ws s. ws Key
+    Key ws s. ws Key
+    
+ReferenceMeaning
+    Tags ws Key ws s. ws Bed. ws Key
+    Key ws s. ws Bed. ws Key
+    
+ReferenceIdentical
+    Tags ws Key ws id. ws Key
+    Key ws id. ws Key
+
+Tags
+    { TagValues }
+
+TagValues
+    TagValue
+    TagValue , ws TagValues
+    
+TagValue
+    va.
+    // ...
+    
+Definitions
+    Definition
+    Definition2
+    Definition3
+    Definition4
+    Definition5
+    Definition6
+    Definition7
+    Definition8
+    Definition9
+    // ...
+
+Definition2
+    1. ws Definition ws 2. Definition
+    
+Definition3
+    Definition2 ws 3. ws Definition
+
+Definition4
+    Definition3 ws 4. ws Definition
+
+Definition5
+    Definition4 ws 5. ws Definition
+    
+// ...
+
+Definition
+    Tags ws Options
+    
+Options
+    Option
+    Option , ws Options
+
+Option
+    WordsGe
+
+WordsKa
+    WordKa ws WordsKa
+
+WordKa
+    CharKa
+    CharKa WordKa
+    CharKa - WordKa
+
+// todo: assume expanded all (), od., /, ;, left with no symbols ❗️
+WordsGe
+    WordGe ws WordsGe
+    
+WordGe
+    CharGe
+    CharGe WordGe
+
+CharKa
+    UNICODE_GEORGIAN_CHARACTER
+    
+CharGe
+    UNICODE_GERMAN_CHARACTER
+    
+SuperscriptNumber
+    ¹
+    ²
+    ³
+    ⁴
+    ⁵
+    ⁶
+    ⁷
+    ⁸
+    ⁹
+
+n
+    UNICODE_NEWLINE_CHARACTER
+    
+s
+    UNICODE_WHITESPACE_CHARACTER
