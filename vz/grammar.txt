@@ -23,21 +23,22 @@ Value
     Definitions
 
 Reference
+    ReferenceValue
+    Tags ws ReferenceValue
+
+ReferenceValue
     ReferenceDirect
     ReferenceMeaning
     ReferenceIdentical
 
 ReferenceDirect
     "s." ws Key
-    Tags ws "s." ws Key
 
 ReferenceMeaning
     "s." ws "Bed." ws Key
-    Tags ws "s." ws "Bed." ws Key
 
 ReferenceIdentical
     "id." ws Key
-    Tags ws "id." ws Key
 
 Tags
     "{" Categories "}"
