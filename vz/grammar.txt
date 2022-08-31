@@ -24,6 +24,9 @@ Value
 
 Reference
     ReferenceValue
+    ReferenceValueTagged
+
+ReferenceValueTagged    
     Tags ws ReferenceValue
 
 ReferenceValue
@@ -111,6 +114,9 @@ ListItem
 
 Definition
     Entries
+    EntriesTagged
+
+EntriesTagged
     Tags ws Entries
 
 // todo: assumes entries if and only if separated by comma, not yet true ❗️
