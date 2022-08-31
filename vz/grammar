@@ -16,16 +16,16 @@ Value
 Reference
     ReferenceDirect
     ReferenceMeaning
-ReferenceIdentical
+    ReferenceIdentical
 
 ReferenceDirect
     Tags ws Key ws s. ws Key
     Key ws s. ws Key
-    
+
 ReferenceMeaning
     Tags ws Key ws s. ws Bed. ws Key
     Key ws s. ws Bed. ws Key
-    
+
 ReferenceIdentical
     Tags ws Key ws id. ws Key
     Key ws id. ws Key
@@ -36,7 +36,7 @@ Tags
 TagValues
     TagValue , ws TagValues
     TagValue
-    
+
 TagValue
     biol.
     bot.
@@ -86,7 +86,7 @@ TagValue
     unk.
     va.
     vulg.
-    
+
 // todo: maybe more?
 Definitions
     Definition9
@@ -101,7 +101,7 @@ Definitions
 
 Definition2
     1. ws Definition ws 2. Definition
-    
+
 Definition3
     Definition2 ws 3. ws Definition
 
@@ -110,7 +110,7 @@ Definition4
 
 Definition5
     Definition4 ws 5. ws Definition
-    
+
 Definition6
     Definition5 ws 6. ws Definition
 
@@ -119,13 +119,13 @@ Definition7
 
 Definition8
     Definition7 ws 8. ws Definition
-    
+
 Definition9
     Definition8 ws 9. ws Definition
 
 Definition
     Tags ws Options
-    
+
 Options
     Option , ws Options
     Option
@@ -144,14 +144,14 @@ WordKa
 // todo: assume expanded all (), od., /, ;, left with no symbols ❗️
 WordsGe
     WordGe ws WordsGe
-    
+
 WordGe
     CharGe WordGe
     CharGe
 
 CharKa
     UNICODE_GEORGIAN_CHARACTER
-    
+
 CharGe
     UNICODE_GERMAN_CHARACTER
 
@@ -169,6 +169,6 @@ SuperscriptNumber
 
 n
     UNICODE_NEWLINE_CHARACTER
-    
+
 s
     UNICODE_WHITESPACE_CHARACTER
