@@ -1,5 +1,5 @@
 Text
-    Line n Text
+    Line nl Text
     Line
 
 Line
@@ -167,8 +167,8 @@ SuperscriptNumber
     ⁸
     ⁹
 
-n
+nl
     UNICODE_NEWLINE_CHARACTER
 
-s
+ws
     UNICODE_WHITESPACE_CHARACTER
