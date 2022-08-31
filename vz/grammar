@@ -1,13 +1,13 @@
 Text
-    Line
     Line n Text
+    Line
 
 Line
     Key ws Value
 
 Key
-    WordKa
     WordKa SuperscriptNumber
+    WordKa
 
 Value
     Reference
@@ -34,8 +34,8 @@ Tags
     { TagValues }
 
 TagValues
-    TagValue
     TagValue , ws TagValues
+    TagValue
     
 TagValue
     biol.
@@ -89,15 +89,15 @@ TagValue
     
 // todo: maybe more?
 Definitions
-    Definition
-    Definition2
-    Definition3
-    Definition4
-    Definition5
-    Definition6
-    Definition7
-    Definition8
     Definition9
+    Definition8
+    Definition7
+    Definition6
+    Definition5
+    Definition4
+    Definition3
+    Definition2
+    Definition
 
 Definition2
     1. ws Definition ws 2. Definition
@@ -127,8 +127,8 @@ Definition
     Tags ws Options
     
 Options
-    Option
     Option , ws Options
+    Option
 
 Option
     WordsGe
@@ -137,17 +137,17 @@ WordsKa
     WordKa ws WordsKa
 
 WordKa
-    CharKa
-    CharKa WordKa
     CharKa - WordKa
+    CharKa WordKa
+    CharKa
 
 // todo: assume expanded all (), od., /, ;, left with no symbols ❗️
 WordsGe
     WordGe ws WordsGe
     
 WordGe
-    CharGe
     CharGe WordGe
+    CharGe
 
 CharKa
     UNICODE_GEORGIAN_CHARACTER
