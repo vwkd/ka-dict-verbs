@@ -1,12 +1,21 @@
 Text
-    Line nl Text
+    Lines
     Line
+
+Lines
+    Line nl Text
 
 Line
     Key ws Value
 
 Key
-    WordKa SuperscriptNumber
+    IndexVariant
+    Index
+
+IndexVariant
+    Index SuperscriptNumber
+
+Index
     WordKa
 
 Value
@@ -19,156 +28,161 @@ Reference
     ReferenceIdentical
 
 ReferenceDirect
-    Tags ws Key ws s. ws Key
-    Key ws s. ws Key
+    "s." ws Key
+    Tags ws "s." ws Key
 
 ReferenceMeaning
-    Tags ws Key ws s. ws Bed. ws Key
-    Key ws s. ws Bed. ws Key
+    "s." ws "Bed." ws Key
+    Tags ws "s." ws "Bed." ws Key
 
 ReferenceIdentical
-    Tags ws Key ws id. ws Key
-    Key ws id. ws Key
+    "id." ws Key
+    Tags ws "id." ws Key
 
 Tags
-    { TagValues }
+    "{" Categories "}"
 
-TagValues
-    TagValue , ws TagValues
-    TagValue
+Categories
+    Category "," ws Categories
+    Category
 
-TagValue
-    biol.
-    bot.
-    chem.
-    chew.
-    desp.
-    elektr.
-    ethn.
-    fig.
-    gr.
-    gur.
-    hist.
-    HV.
-    imer.
-    ing.
-    iro.
-    jur.
-    kach.
-    khar.
-    khis.
-    landw.
-    letsch.
-    math.
-    med.
-    mil.
-    moch.
-    moral.
-    mthiul.
-    mus.
-    neg.
-    nz.
-    o-imer.
-    photogr.
-    phys.
-    poet.
-    pol.
-    psch.
-    ratsch.
-    rl.
-    spo.
-    tech.
-    thusch.
-    typ.
-    u-imer.
-    u-ratsch.
-    umg.
-    unk.
-    va.
-    vulg.
+Category
+    "biol."
+    "bot."
+    "chem."
+    "chew."
+    "desp."
+    "elektr."
+    "ethn."
+    "fig."
+    "gr."
+    "gur."
+    "hist."
+    "HV."
+    "imer."
+    "ing."
+    "iro."
+    "jur."
+    "kach."
+    "khar."
+    "khis."
+    "landw."
+    "letsch."
+    "math."
+    "med."
+    "mil."
+    "moch."
+    "moral."
+    "mthiul."
+    "mus."
+    "neg."
+    "nz."
+    "o-imer."
+    "photogr."
+    "phys."
+    "poet."
+    "pol."
+    "psch."
+    "ratsch."
+    "rl."
+    "spo."
+    "tech."
+    "thusch."
+    "typ."
+    "u-imer."
+    "u-ratsch."
+    "umg."
+    "unk."
+    "va."
+    "vulg."
 
-// todo: maybe more?
 Definitions
-    Definition9
-    Definition8
-    Definition7
-    Definition6
-    Definition5
-    Definition4
-    Definition3
-    Definition2
     Definition
+    List
 
-Definition2
-    1. ws Definition ws 2. Definition
+// todo: limit list to increasing integers "1. xxx 2. xxx 3. xxx"
+List
+    ListItem ws List
+    ListItem ws ListItem
 
-Definition3
-    Definition2 ws 3. ws Definition
-
-Definition4
-    Definition3 ws 4. ws Definition
-
-Definition5
-    Definition4 ws 5. ws Definition
-
-Definition6
-    Definition5 ws 6. ws Definition
-
-Definition7
-    Definition6 ws 7. ws Definition
-
-Definition8
-    Definition7 ws 8. ws Definition
-
-Definition9
-    Definition8 ws 9. ws Definition
+ListItem
+    Integer "." ws Definition
 
 Definition
-    Tags ws Options
+    Entries
+    Tags ws Entries
 
-Options
-    Option , ws Options
-    Option
+// todo: assumes entries if and only if separated by comma, not yet true ❗️
+Entries
+    Entry "," ws Entries
+    Entry
 
-Option
-    WordsGe
+// todo: not true, might have other WordsKa ❗️
+Entry
+    WordsDe
 
 WordsKa
     WordKa ws WordsKa
+    WordKa
 
 WordKa
-    CharKa - WordKa
     CharKa WordKa
     CharKa
+    CharKa "-" WordKa
 
-// todo: assume expanded all (), od., /, ;, left with no symbols ❗️
-WordsGe
-    WordGe ws WordsGe
+// todo: assume expanded all shorthands, has no (), od., /, ;, not yet true ❗️
+WordsDe
+    WordDe ws WordsDe
+    WordDe
 
-WordGe
-    CharGe WordGe
-    CharGe
+WordDe
+    CharDe WordDe
+    CharDe
+    CharDe "-" WordDe
 
 CharKa
     UNICODE_GEORGIAN_CHARACTER
 
-CharGe
+CharDe
     UNICODE_GERMAN_CHARACTER
 
 // todo: maybe more?
 SuperscriptNumber
-    ¹
-    ²
-    ³
-    ⁴
-    ⁵
-    ⁶
-    ⁷
-    ⁸
-    ⁹
+    "¹"
+    "²"
+    "³"
+    "⁴"
+    "⁵"
+    "⁶"
+    "⁷"
+    "⁸"
+    "⁹"
 
 nl
     UNICODE_NEWLINE_CHARACTER
 
 ws
     UNICODE_WHITESPACE_CHARACTER
+
+Integer
+    DigitNonZero
+    DigitNonZero Digits
+
+Digits
+    Digit
+    Digit Digits
+
+Digit
+    "0"
+    DigitNonZero
+
+DigitNonZero
+    "1"
+    "2"
+    "3"
+    "4"
+    "5"
+    "6"
+    "7"
+    "8"
+    "9"
