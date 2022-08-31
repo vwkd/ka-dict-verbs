@@ -121,10 +121,6 @@ Entries
 Entry
     WordsDe
 
-WordsKa
-    WordKa ws WordsKa
-    WordKa
-
 WordKa
     CharKa WordKa
     CharKa
