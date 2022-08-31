@@ -18,6 +18,14 @@ IndexVariant
 Index
     WordKa
 
+WordKa
+    CharKa WordKa
+    CharKa
+    CharKa "-" WordKa
+
+CharKa
+    UNICODE_GEORGIAN_CHARACTER
+
 Value
     Reference
     Definitions
@@ -134,26 +142,26 @@ EntryList
 Entry
     WordsDe
 
-WordKa
-    CharKa WordKa
-    CharKa
-    CharKa "-" WordKa
-
 // todo: assume expanded all shorthands, has no (), od., /, ;, not yet true ❗️
 WordsDe
+    WordDe "-" WordsDe
     WordDe ws WordsDe
     WordDe
 
+// note: require at least two letters
 WordDe
-    CharDe WordDe
-    CharDe
-    CharDe "-" WordDe
+    CharDeBig CharsDeSmall
+    CharDeSmall CharsDeSmall
 
-CharKa
-    UNICODE_GEORGIAN_CHARACTER
+CharsDeSmall
+    CharDeSmall CharsDeSmall
+    CharDeSmall
 
-CharDe
-    UNICODE_GERMAN_CHARACTER
+CharDeBig
+    UNICODE_GERMAN_BIG_CHARACTER
+
+CharDeSmall
+    UNICODE_GERMAN_SMALL_CHARACTER
 
 // todo: maybe more?
 SuperscriptNumber
