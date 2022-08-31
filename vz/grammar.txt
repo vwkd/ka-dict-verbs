@@ -47,8 +47,11 @@ Tags
     "{" Categories "}"
 
 Categories
-    Category "," ws Categories
+    CategoryList
     Category
+
+CategoryList
+    Category "," ws Categories
 
 Category
     "biol."
@@ -101,15 +104,15 @@ Category
     "vulg."
 
 Definitions
+    DefinitionList
     Definition
-    List
 
-// todo: limit list to increasing integers "1. xxx 2. xxx 3. xxx"
-List
-    ListItem ws List
-    ListItem ws ListItem
+// todo: limit definition list to increasing integers "1. xxx 2. xxx 3. xxx"
+DefinitionList
+    DefinitionListItem ws DefinitionList
+    DefinitionListItem ws DefinitionListItem
 
-ListItem
+DefinitionListItem
     Integer "." ws Definition
 
 Definition
@@ -121,8 +124,11 @@ EntriesTagged
 
 // todo: assumes entries if and only if separated by comma, not yet true ❗️
 Entries
-    Entry "," ws Entries
+    EntryList
     Entry
+
+EntryList
+    Entry "," ws Entries
 
 // todo: not true, might have other WordsKa ❗️
 Entry
