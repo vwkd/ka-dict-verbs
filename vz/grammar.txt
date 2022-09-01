@@ -1,5 +1,5 @@
 // grammar in McKeeman Form extended with
-// comments, repetitions, arguments, repetition index
+// comments, repetitions, optional, arguments, repetition index
 
 Text
     Line NewlineLine*
@@ -30,12 +30,11 @@ SuperscriptNumber
     "⁹"
 
 Index
-    WordKa
+    WordKa ("-" WordKa)?
 
 // note: allow only single hyphen in word
 WordKa
     CharKa+
-    CharKa+ "-" CharKa+
 
 CharKa
     UNICODE_GEORGIAN_CHARACTER
