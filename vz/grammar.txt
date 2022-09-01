@@ -1,9 +1,8 @@
 Text
-    Lines
-    Line
+    Line NewlineLine*
 
-Lines
-    Line nl Text
+NewlineLine
+    nl Line
 
 Line
     Key ws Value
@@ -18,10 +17,10 @@ IndexVariant
 Index
     WordKa
 
+// note: allow only single hyphen in word
 WordKa
-    CharKa WordKa
-    CharKa
-    CharKa "-" WordKa
+    CharKa+
+    CharKa+ "-" CharKa+
 
 CharKa
     UNICODE_GEORGIAN_CHARACTER
@@ -55,11 +54,10 @@ Tags
     "{" Categories "}"
 
 Categories
-    CategoryList
-    Category
+    Category CommaWhitespaceCategory*
 
-CategoryList
-    Category "," ws Categories
+CommaWhitespaceCategory
+    "," ws Category
 
 Category
     "biol."
@@ -115,10 +113,12 @@ Definitions
     DefinitionList
     Definition
 
-// todo: limit definition list to increasing integers "1. xxx 2. xxx 3. xxx"
+// todo: require increasing integers
 DefinitionList
-    DefinitionListItem ws DefinitionList
-    DefinitionListItem ws DefinitionListItem
+    DefinitionListItem WhitespaceDefinitionListItem+
+
+WhitespaceDefinitionListItem
+    ws DefinitionListItem
 
 DefinitionListItem
     Integer "." ws Definition
@@ -132,30 +132,25 @@ EntriesTagged
 
 // todo: assumes entries if and only if separated by comma, not yet true ❗️
 Entries
-    EntryList
-    Entry
+    Entry CommaWhitespaceEntry*
 
-EntryList
-    Entry "," ws Entries
+CommaWhitespaceEntry
+    "," ws Entry
 
 // todo: not true, might have other WordsKa ❗️
 Entry
     WordsDe
 
 // todo: assume expanded all shorthands, has no (), od., /, ;, not yet true ❗️
+// note: allow only single hyphen in word, note: in grammar is two words
 WordsDe
-    WordDe "-" WordsDe
-    WordDe ws WordsDe
-    WordDe
+    WordDe "-" WordDe
+    WordDe+
 
 // note: require at least two letters
 WordDe
-    CharDeBig CharsDeSmall
-    CharDeSmall CharsDeSmall
-
-CharsDeSmall
-    CharDeSmall CharsDeSmall
-    CharDeSmall
+    CharDeBig CharDeSmall+
+    CharDeSmall{2,}
 
 CharDeBig
     UNICODE_GERMAN_BIG_CHARACTER
@@ -182,12 +177,7 @@ ws
     UNICODE_WHITESPACE_CHARACTER
 
 Integer
-    DigitNonZero
-    DigitNonZero Digits
-
-Digits
-    Digit
-    Digit Digits
+    DigitNonZero Digit*
 
 Digit
     "0"
