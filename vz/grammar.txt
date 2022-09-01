@@ -155,17 +155,27 @@ Entry
     WordsDe
 
 // todo: assume expanded all shorthands, has no (), od., /, ;, not yet true ❗️
-// note: allow only single hyphen in word, note: in grammar is two words
 WordsDe
-    WordDe "-" WordDe
     WordDe WhitespaceWordDe*
 
 WhitespaceWordDe
     ws WordDe
 
-// note: require at least two letters
 WordDe
+    WordDeBig
+    WordDeSmall
+    WordDeHyphen
+
+// todo: allow WordDeSmall?
+WordDeHyphen
+    WordDeBig "-" WordDeBig
+
+// note: require at least two letters
+WordDeBig
     CharDeBig CharDeSmall+
+
+// note: require at least two letters
+WordDeSmall
     CharDeSmall{2,}
 
 CharDeBig
