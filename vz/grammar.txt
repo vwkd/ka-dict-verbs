@@ -159,7 +159,10 @@ Entry
 // note: allow only single hyphen in word, note: in grammar is two words
 WordsDe
     WordDe "-" WordDe
-    WordDe+
+    WordDe WhitespaceWordDe*
+
+WhitespaceWordDe
+    ws WordDe
 
 // note: require at least two letters
 WordDe
