@@ -1,3 +1,6 @@
+// grammar in McKeeman Form extended with
+// comments, repetitions, arguments, repetition index
+
 Text
     Line NewlineLine*
 
@@ -113,15 +116,14 @@ Definitions
     DefinitionList
     Definition
 
-// todo: require increasing integers
 DefinitionList
-    DefinitionListItem WhitespaceDefinitionListItem+
+    DefinitionListItem(1) WhitespaceDefinitionListItem_i=2(i + 1)+
 
-WhitespaceDefinitionListItem
-    ws DefinitionListItem
+WhitespaceDefinitionListItem(i)
+    ws DefinitionListItem(i)
 
-DefinitionListItem
-    Integer "." ws Definition
+DefinitionListItem(i)
+    i "." ws Definition
 
 Definition
     Entries
@@ -175,21 +177,3 @@ nl
 
 ws
     UNICODE_WHITESPACE_CHARACTER
-
-Integer
-    DigitNonZero Digit*
-
-Digit
-    "0"
-    DigitNonZero
-
-DigitNonZero
-    "1"
-    "2"
-    "3"
-    "4"
-    "5"
-    "6"
-    "7"
-    "8"
-    "9"
