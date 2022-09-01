@@ -30,10 +30,17 @@ SuperscriptNumber
     "⁹"
 
 Index
-    WordKa ("-" WordKa)?
+    WordKa
+
+WordKa
+    WordKaHyphen
+    CharsKa
 
 // note: allow only single hyphen in word
-WordKa
+WordKaHyphen
+    CharsKa "-" CharsKa
+
+CharsKa
     CharKa+
 
 CharKa
