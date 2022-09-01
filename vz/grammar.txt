@@ -17,6 +17,18 @@ Key
 IndexVariant
     Index SuperscriptNumber
 
+// todo: maybe more?
+SuperscriptNumber
+    "¹"
+    "²"
+    "³"
+    "⁴"
+    "⁵"
+    "⁶"
+    "⁷"
+    "⁸"
+    "⁹"
+
 Index
     WordKa
 
@@ -159,18 +171,6 @@ CharDeBig
 
 CharDeSmall
     UNICODE_GERMAN_SMALL_CHARACTER
-
-// todo: maybe more?
-SuperscriptNumber
-    "¹"
-    "²"
-    "³"
-    "⁴"
-    "⁵"
-    "⁶"
-    "⁷"
-    "⁸"
-    "⁹"
 
 nl
     UNICODE_NEWLINE_CHARACTER
