@@ -33,7 +33,7 @@ Reference
     ReferenceValue
     ReferenceValueTagged
 
-ReferenceValueTagged    
+ReferenceValueTagged
     Tags ws ReferenceValue
 
 ReferenceValue
