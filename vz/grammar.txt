@@ -48,26 +48,23 @@ TargetOrReference
     Target
 
 Reference
-    TagsWhitespace? ReferenceType ws Source
+    TagsWhitespace? Type ws Source
 
 TagsWhitespace
     Tags ws
 
-ReferenceType
+Type
     "s." ws "Bed."
     "s." 
     "id."
 
 Tags
-    "{" Categories "}"
+    "{" Tag CommaWhitespaceTag* "}"
 
-Categories
-    Category CommaWhitespaceCategory*
+CommaWhitespaceTag
+    "," ws Tag
 
-CommaWhitespaceCategory
-    "," ws Category
-
-Category
+Tag
     "biol."
     "bot."
     "chem."
@@ -118,16 +115,16 @@ Category
     "vulg."
 
 Target
-    ValueList
+    Values
     Value
 
-ValueList
-    ValueItem(1) WhitespaceValueItem_i=2(i + 1)+
+Values
+    IntegerDotWhitespaceValue(1) WhitespaceIntegerDotWhitespaceValue_i=2(i + 1)+
 
-WhitespaceValueItem(i)
-    ws ValueItem(i)
+WhitespaceIntegerDotWhitespaceValue(i)
+    ws IntegerDotWhitespaceValue(i)
 
-ValueItem(i)
+IntegerDotWhitespaceValue(i)
     i "." ws Value
 
 Value
