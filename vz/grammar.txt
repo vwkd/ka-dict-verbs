@@ -58,18 +58,12 @@ ReferenceValueTagged
     Tags ws ReferenceValue
 
 ReferenceValue
-    ReferenceDirect
-    ReferenceMeaning
-    ReferenceIdentical
+    ReferenceType ws Source
 
-ReferenceDirect
-    "s." ws Key
-
-ReferenceMeaning
-    "s." ws "Bed." ws Key
-
-ReferenceIdentical
-    "id." ws Key
+ReferenceType
+    "s." ws "Bed."
+    "s." 
+    "id."
 
 Tags
     "{" Categories "}"
