@@ -8,29 +8,14 @@ NewlineLine
     nl Line
 
 Line
-    Key ws Value
+    Source ws TargetOrReference
 
-Key
-    IndexVariant
-    Index
-
-IndexVariant
-    Index SuperscriptNumber
-
-// todo: maybe more?
-SuperscriptNumber
-    "¹"
-    "²"
-    "³"
-    "⁴"
-    "⁵"
-    "⁶"
-    "⁷"
-    "⁸"
-    "⁹"
-
-Index
+Source
+    WordKaMeaning
     WordKa
+
+WordKaMeaning
+    WordKa SuperscriptNumber
 
 WordKa
     WordKaHyphen
@@ -46,9 +31,21 @@ CharsKa
 CharKa
     UNICODE_GEORGIAN_CHARACTER
 
-Value
+// todo: maybe more?
+SuperscriptNumber
+    "¹"
+    "²"
+    "³"
+    "⁴"
+    "⁵"
+    "⁶"
+    "⁷"
+    "⁸"
+    "⁹"
+
+TargetOrReference
     Reference
-    Definitions
+    Target
 
 Reference
     ReferenceValue
@@ -124,7 +121,7 @@ Category
     "va."
     "vulg."
 
-Definitions
+Target
     DefinitionList
     Definition
 
