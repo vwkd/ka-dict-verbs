@@ -48,14 +48,10 @@ TargetOrReference
     Target
 
 Reference
-    ReferenceValue
-    ReferenceValueTagged
+    TagsWhitespace? ReferenceType ws Source
 
-ReferenceValueTagged
-    Tags ws ReferenceValue
-
-ReferenceValue
-    ReferenceType ws Source
+TagsWhitespace
+    Tags ws
 
 ReferenceType
     "s." ws "Bed."
@@ -122,38 +118,31 @@ Category
     "vulg."
 
 Target
-    DefinitionList
-    Definition
+    ValueList
+    Value
 
-DefinitionList
-    DefinitionListItem(1) WhitespaceDefinitionListItem_i=2(i + 1)+
+ValueList
+    ValueItem(1) WhitespaceValueItem_i=2(i + 1)+
 
-WhitespaceDefinitionListItem(i)
-    ws DefinitionListItem(i)
+WhitespaceValueItem(i)
+    ws ValueItem(i)
 
-DefinitionListItem(i)
-    i "." ws Definition
+ValueItem(i)
+    i "." ws Value
 
-Definition
-    Entries
-    EntriesTagged
+Value
+    TagsWhitespace? Sentences
 
-EntriesTagged
-    Tags ws Entries
+// todo: assumes sentences if and only if separated by comma, not yet true ❗️
+Sentences
+    Sentence CommaWhitespaceSentence*
 
-// todo: assumes entries if and only if separated by comma, not yet true ❗️
-Entries
-    Entry CommaWhitespaceEntry*
-
-CommaWhitespaceEntry
-    "," ws Entry
-
-// todo: not true, might have other WordsKa ❗️
-Entry
-    WordsDe
+CommaWhitespaceSentence
+    "," ws Sentence
 
 // todo: assume expanded all shorthands, has no (), od., /, ;, not yet true ❗️
-WordsDe
+// todo: sentence might contain WordKa ❗️
+Sentence
     WordDe WhitespaceWordDe*
 
 WhitespaceWordDe
