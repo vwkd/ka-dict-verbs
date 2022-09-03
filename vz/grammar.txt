@@ -48,12 +48,12 @@ TargetOrReference
     Target
 
 Reference
-    TagsWhitespace? Type ws Source
+    TagsWhitespace? Kind ws Source
 
 TagsWhitespace
     Tags ws
 
-Type
+Kind
     "s." ws "Bed."
     "s." 
     "id."
