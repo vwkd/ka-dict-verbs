@@ -54,7 +54,7 @@ TagsWhitespace
     Tags ws
 
 Kind
-    "s." ws "Bed."
+    "Bed." ws "s."
     "s." 
     "id."
 
