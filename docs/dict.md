@@ -23,10 +23,15 @@
 
 ## Format
 
-- (?) make comma field separator
-- (?) clean up commas in fields, e.g. `x y, z q` to `x y q, x z q`, etc.
+- (?) make semicolon field separator
+- (?) change wrong semicolons to numbers and vice versa, e.g. `ხულუზს {psch.} Bed. s. ხულ; auf die Beute stoßen`
+- (?) remove tags from semicolon list
 - (?) distribute ORs into fields, e.g. `X od. Y`, `X/Y`, etc.
 - (?) distribute parentheses into fields, e.g. `(x)y` and `y(x)z`, etc.
+- (?) replace and remove symbols "/", "(", ")", "-", "od.", "usw.", "bzw.", '"', "u. ä.", "Pkt."
+- (?) replace double reference with single reference, e.g. `s. X bzw Y` with `s. X`
+- (?) replace dual references
+- (?) replace "references of meaning" identical to "references"
 
 
 
@@ -43,7 +48,6 @@
 - parse reference
 - parse value
   - split by semicolon
-  - split by comma
 - parse tags
   - extract curly braces
   - split by comma
