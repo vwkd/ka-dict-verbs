@@ -43,16 +43,24 @@ SuperscriptNumber
     "⁸"
     "⁹"
 
-Reference
-    Kind ws Source
+Target
+    Values
+    Value
+
+Values
+    IntegerDotWhitespaceValue(1) WhitespaceIntegerDotWhitespaceValue_i=2(i + 1)+
+
+WhitespaceIntegerDotWhitespaceValue(i)
+    ws IntegerDotWhitespaceValue(i)
+
+IntegerDotWhitespaceValue(i)
+    i "." ws Value
+
+Value
+    TagsWhitespace? ReferenceOrSentences
 
 TagsWhitespace
     Tags ws
-
-Kind
-    "Bed." ws "s."
-    "s." 
-    "id."
 
 Tags
     "{" Tag CommaWhitespaceTag* "}"
@@ -110,25 +118,17 @@ Tag
     "va."
     "vulg."
 
-Target
-    Values
-    Value
-
-Values
-    IntegerDotWhitespaceValue(1) WhitespaceIntegerDotWhitespaceValue_i=2(i + 1)+
-
-WhitespaceIntegerDotWhitespaceValue(i)
-    ws IntegerDotWhitespaceValue(i)
-
-IntegerDotWhitespaceValue(i)
-    i "." ws Value
-
-Value
-    TagsWhitespace? ReferenceOrSentences
-
 ReferenceOrSentences
     Reference
     Sentences
+
+Reference
+    Kind ws Source
+
+Kind
+    "Bed." ws "s."
+    "s." 
+    "id."
 
 // todo: assumes sentences if and only if separated by comma, not yet true ❗️
 Sentences
