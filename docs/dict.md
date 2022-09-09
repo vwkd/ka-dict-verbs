@@ -13,7 +13,7 @@
 - correct mistakes, e.g. ":"
 - use modern grammar, e.g. "ck" instead of "kk", "ß" instead of "ss"
 - make consistent, e.g. "z.B." instead of "z. B."
-- expand shorthands, e.g. "zusammen" instead of "zs", "jemand" instead of "jmd", etc.
+- expand shorthands, e.g. "zusammen" instead of "zs", "jemand" instead of "jmd", "und" instead of "u.", etc.
 - expand shorthands accross fields, e.g. "XYZ, X.", "X-, Y-Z", "Z-X, -Y", etc.
 - check grammar
 - check alphabetic sort
@@ -50,70 +50,8 @@
   - sort alphabetical
 - save as JSON
 
-```json
-[
-// definition
-{
-  "index": "შპ",
-  "value": [
-    {
-      "index": 1,
-      "tags": [ "gur." ],
-      "value": "das Fell abziehen",
-    },
-    {
-      "index": 2,
-      "tags": [ "gur.", "fig." ],
-      "value": "hart bestrafen",
-    },
-  ]
-},
-// definition and reference
-{
-  "index": "მიზეზიან",
-  "value": [
-    {
-      "index": 1,
-      "tags": [ ],
-      "value": "kapriziös sein",
-    },
-    {
-      "index": 2,
-      "tags": [ ],
-      "reference": [
-        {
-          "value": "მიზიზ",
-          "index": 2,
-        }
-      ]
-    },
-  ]
-},
-// reference
-{
-  "index": "ლღ(ვ)",
-  "value": [
-    {
-      "index": 1,
-      "tags": [ ],
-      "reference": {
-        "value": "ლხ"
-      }
-    },
-  ]
-},
-// reference of meaning
-{
-  "index": "ჯუბაჩ",
-  "value": [
-    {
-      "index": 1,
-      "tags": [ "va." ],
-      "referenceOfMeaning": {
-        "value": "ჩუბაჩ"
-      }
-    },
-  ]
-},
-]
-```
+
+
+## Transform
+
+- check referenced entry exists
