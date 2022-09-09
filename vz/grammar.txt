@@ -132,18 +132,18 @@ Kind
 
 // todo: assumes sentences if and only if separated by comma, not yet true ❗️
 Sentences
-    Sentence CommaWhitespaceSentence*
+    Sentence SemicolonWhitespaceSentence*
 
-CommaWhitespaceSentence
-    "," ws Sentence
+SemicolonWhitespaceSentence
+    ";" ws Sentence
 
-// todo: assume expanded all shorthands, has no (), od., /, ;, not yet true ❗️
+// todo: assume expanded all shorthands, has no (), od., /, not yet true ❗️
 // todo: sentence might contain WordKa ❗️
 Sentence
-    WordDe WhitespaceWordDe*
+    WordDe CommaWhitespaceWordDe*
 
-WhitespaceWordDe
-    ws WordDe
+CommaWhitespaceWordDe
+    ","? ws WordDe
 
 WordDe
     WordDeBig
