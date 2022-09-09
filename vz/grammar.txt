@@ -130,7 +130,6 @@ Kind
     "s." 
     "id."
 
-// todo: assumes sentences if and only if separated by comma, not yet true ❗️
 Sentences
     Sentence SemicolonWhitespaceSentence*
 
