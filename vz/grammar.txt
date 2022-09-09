@@ -8,8 +8,8 @@ NewlineLine
     nl Line
 
 Line
-    Source ws TargetOrReference
-
+    Source ws Target
+    
 Source
     WordKaMeaning
     WordKa
@@ -43,12 +43,8 @@ SuperscriptNumber
     "⁸"
     "⁹"
 
-TargetOrReference
-    Reference
-    Target
-
 Reference
-    TagsWhitespace? Kind ws Source
+    Kind ws Source
 
 TagsWhitespace
     Tags ws
@@ -128,7 +124,11 @@ IntegerDotWhitespaceValue(i)
     i "." ws Value
 
 Value
-    TagsWhitespace? Sentences
+    TagsWhitespace? ReferenceOrSentences
+
+ReferenceOrSentences
+    Reference
+    Sentences
 
 // todo: assumes sentences if and only if separated by comma, not yet true ❗️
 Sentences
