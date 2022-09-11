@@ -137,12 +137,15 @@ SemicolonWhitespaceSentence
     ";" ws Sentence
 
 // todo: assume expanded all shorthands, has no (), od., /, not yet true ❗️
-// todo: sentence might contain WordKa ❗️
 Sentence
-    WordDe CommaWhitespaceWordDe*
+    Word CommaWhitespaceWord*
 
-CommaWhitespaceWordDe
-    ","? ws WordDe
+CommaWhitespaceWord
+    ","? ws Word
+
+Word
+    WordDe
+    WordKa
 
 WordDe
     WordDeBig
