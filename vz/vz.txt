@@ -869,7 +869,7 @@
 ზარხოშ einen Schwips bekommen
 ზაფრ an Gelbsucht erkranken; sich grämen
 ზაფხულ 1. übersommern 2. Frühling werden
-ზაყ {psch.} schwerfällig, behäbig gehen
+ზაყ {psch.} schwerfällig/behäbig gehen
 ზახ {va.} s. ზახილ
 ზახილ {va.} schreien, rufen, lärmen
 ზდ s. ზრდ
@@ -1859,18 +1859,18 @@
 მეცადინე lernen, (geistig) arbeiten; sich eifrig bemühen
 მეცენატ ein Mäzen sein
 მეცნიერ 1. sich einbilden ein Gelehrter zu sein 2. ein Wissenschaftler sein
-მეცხვარე ein Schafhirt, Schafzüchter sein
+მეცხვარე ein Schafhirt/Schafzüchter sein
 მეძავ eine Prostituierte sein od. werden
 მეწვრილმანე ein Kleinkrämer/Hausierer sein
 მეწისქვილ id. მეწისქვილე
 მეწისქვილე Müller sein
-მეწყვრ einen Bergrutsch, Erdrutsch verursachen
+მეწყვრ einen Bergrutsch/Erdrutsch verursachen
 მეწყრ id. მეწყვრ
 მეჭეჭ sich mit Warzen bedecken
 მეჭურჭლე Töpfer sein
 მეხ einschlagen (Blitz)
 მეხრევ zum (Ochsen-)Treiber machen
-მეჯლის ein Festmahl, Gastmahl geben
+მეჯლის ein Festmahl/Gastmahl geben
 მზად 1. (vor-, zu-)bereiten 2. verfertigen, produzieren 3. anlegen (z.B. Vorräte)
 მზაკვრ hinterlistig sein
 მზარეულ Koch sein, kochen
@@ -1911,7 +1911,7 @@
 მიზეზიან 1. kapriziös sein 2. s. მიზიზ (Pkt. 2)
 მიზვნ zielen, ins Auge fassen
 მიზნ id. მიზვნ
-მინ eine Glasscheibe, Fensterscheibe einsetzen
+მინ eine Glasscheibe/Fensterscheibe einsetzen
 მინდვრ 1. in Wiesland/Felder verwandeln 2. in die Ebene gelangen (Fluss)
 მის {imer., gur.} sich etwas aneignen; zu eigen geben
 მისნ wahrsagen, weissagen
@@ -2218,7 +2218,7 @@
 ნადგურ vernichten, zerstören; zugrunde richten
 ნადიმ schmausen, zechen
 ნადირ jagen
-ნავარდ 1. (sich) tummeln 2. Streifzüge, Raubzüge machen
+ნავარდ 1. (sich) tummeln 2. Streifzüge/Raubzüge machen
 ნავთიან mit Petroleum verschmiert werden
 ნავლ zu Asche werden
 ნავს Unheil bringen, verhexen
@@ -3157,7 +3157,7 @@
 ტკბილ 1. süßer machen od. werden 2. liebevoll behandeln
 ტკენ schmerzen
 ტკეპნ feststampfen, festtreten
-ტკეჩ mit Fachwerk, Riegelwerk versehen
+ტკეჩ mit Fachwerk/Riegelwerk versehen
 ტკეც 1. feststampfen, festtreten 2. jemanden durchwalken
 ტკვერ zerbeißen, zernagen
 ტკვირ s. ტკვერ
@@ -3827,7 +3827,7 @@
 ქურთნ abrinden
 ქურუშ 1. sich verfinstern (Gesicht) 2. sich bewölken
 ქურუხ 1. sich verfinstern (Gesicht) 2. sich mit Regenwolken bedecken
-ქურქულ {gur.} absichtlich, bewusst stöhnen
+ქურქულ {gur.} absichtlich/bewusst stöhnen
 ქურჩვლ {imer.} die Hüllblätter (des Maiskolbens usw.) entfernen
 ქურჩლ id. ქურჩვლ
 ქურჯ id. ქურჯნ
@@ -4159,7 +4159,7 @@
 ყინჩავ 1. {imer.} sich spreizen 2. {gur., khar.} sich recken
 ყინჭვრ {psch.} schlachten
 ყინჭრ id. ყინჭვრ
-ყიჟინ laut, gellend schreien
+ყიჟინ laut/gellend schreien
 ყირავ auf den Kopf stellen, stürzen, kippen
 ყირჭ verleiden
 ყიყინ quaken; schnattern
@@ -4246,7 +4246,7 @@
 ყურჭუმელა id. ყურჭუმელავ
 ყურჭუმელავ Bed. s. ყურყუმელან
 ყუყ sich kauern/hocken
-ყუყუნ ein brodelndes, glucksendes Geräusch machen; kollern (im Bauch)
+ყუყუნ ein brodelndes/glucksendes Geräusch machen; kollern (im Bauch)
 ყუჩ¹ s. ყუჩილ
 ყუჩ² jemandes Herz rühren
 ყუჩილ schweigen; verstummen (lassen)
@@ -4401,7 +4401,7 @@
 შხვართ {imer., gur.} sich anmutig ausstrecken
 შხი id. შხივ
 შხივ s. შხივილ
-შხივილ 1. ein schwirrendes, sausendes Geräusch machen, rauschen 2. zischen, brutzeln
+შხივილ 1. ein schwirrendes/sausendes Geräusch machen, rauschen 2. zischen, brutzeln
 შხივლ s. შხივილ
 შხიპ-შხიპ {khis.} brutzeln
 შხლართ sich der Länge nach ausstrecken; der Länge nach hinstürzen
@@ -4438,7 +4438,7 @@
 ჩაჩანაკ altersschwach werden
 ჩაჩქუნ (mit der Hand) auf den Kopf schlagen; {fig.} schlecht behandeln
 ჩაჩხ (unschön) auseinanderspreizen
-ჩახჩან {umg.} in lautem, unangenehmem Ton reden
+ჩახჩან {umg.} in lautem/unangenehmem Ton reden
 ჩახჩახ 1. glänzen, strahlen 2. plätschern; brodeln 3. die Küken mit lauter Stimme rufen (Henne)
 ჩეკ¹ (aus)brüten; ausschlüpfen
 ჩეკ² 1. zuspitzen 2. zerstechen
@@ -5045,7 +5045,7 @@
 წინწილ 1. (zer)teilen 2. {gur.} fein spinnen 3. in kleinen Mengen forttragen 4. zuspitzen
 წინწკვლ 1. besprengen 2. sprenkeln, spritzen 3. {umg.} sprühen (Regen)
 წინწკლ id. წინწკვლ
-წიოკ 1. mit schriller, aufgeregter Stimme schreien 2. in Aufregung versetzen 3. (aus)plündern; verheeren
+წიოკ 1. mit schriller/aufgeregter Stimme schreien 2. in Aufregung versetzen 3. (aus)plündern; verheeren
 წიპწიპ piepsen
 წირ 1. die Messe halten 2. opfern; spenden
 წირპვლ 1. {umg.} flennen 2. {umg.} triefen (Augen)
@@ -5063,7 +5063,7 @@
 წიხლ id. წიხვლ
 წკა id. წკავ
 წკავ s. წკავილ
-წკავილი mit hoher, dünner Stimme bellen
+წკავილი mit hoher/dünner Stimme bellen
 წკავლ s. წკავილ
 წკავწკავ bäffen, kläffen
 წკანწკარ s. წანწკარ
@@ -5292,9 +5292,9 @@
 ჭიქ glasieren (Töpferwaren)
 ჭიჭ zusammenschrumpfen
 ჭიჭვნ s. ჭიჭნ
-ჭიჭინ 1. (unangenehme) hohe, klagende Töne von sich geben (ზურნა); {fig.} in jammerndem Ton sprechen 2. blubbern
+ჭიჭინ 1. (unangenehme) hohe/klagende Töne von sich geben (ზურნა); {fig.} in jammerndem Ton sprechen 2. blubbern
 ჭიჭნ ein Grübchen (in der Wange) bekommen
-ჭიჭყინ (unangenehme) hohe, klagende Töne von sich geben (ზურნა); dudeln; {fig.} in jammerndem Ton sprechen
+ჭიჭყინ (unangenehme) hohe/klagende Töne von sich geben (ზურნა); dudeln; {fig.} in jammerndem Ton sprechen
 ჭიჭყნ unsorgfältig waschen; unordentlich kneten; klecksen
 ჭიხვინ wiehern
 ჭიხჭიხ 1. rauschen 2. {imer.} hell lachen
@@ -5356,7 +5356,7 @@
 ჭუჭკნ jemanden fest einhüllen (in)
 ჭუჭყიან schmutzig machen od. werden
 ჭუჭყნ Bed. s. ჭიჭყნ
-ჭუჭყუნ (unangenehme) hohe, klagende Töne von sich geben (ზურნა); {fig.} brummen, quengeln
+ჭუჭყუნ (unangenehme) hohe/klagende Töne von sich geben (ზურნა); {fig.} brummen, quengeln
 ჭუხ die Brauen runzeln
 ჭყა id. ჭყავ
 ჭყავ s. ჭყავილ
@@ -5374,7 +5374,7 @@
 ჭყვინ {psch.} s. ჭყვენ
 ჭყვირ s. ჭყვირილ
 ჭყვირილ quieken, quietschen, kreischen
-ჭყვიტინ quieken; (unangenehme) hohe, klagende Töne von sich geben (ზურნა); dudeln
+ჭყვიტინ quieken; (unangenehme) hohe/klagende Töne von sich geben (ზურნა); dudeln
 ჭყვლეპ mit der Hand zerdrücken (Gemüse)
 ჭყვლიპ s. ჭყვლეპ
 ჭყი id. ჭყივ
@@ -5419,7 +5419,7 @@
 ხავრ {mthiul.} eine Wunde anschwellen lassen
 ხავს sich mit Moos bedecken; {fig.} veralten
 ხავსიან Bed. s. ხავს
-ხავხავ mit schwacher, heiserer Stimme sprechen
+ხავხავ mit schwacher/heiserer Stimme sprechen
 ხაზ zeichnen, lini(i)eren
 ხაზმუზიან {umg.} kränkeln
 ხათრ jemandem Achtung entgegenbringen; Scheu empfinden, sich genieren
@@ -5688,7 +5688,7 @@
 ხრიწინ röcheln
 ხროვ aufhaufen
 ხროტინ röcheln
-ხროხინ {imer.} mit lauter, tiefer Stimme sprechen
+ხროხინ {imer.} mit lauter/tiefer Stimme sprechen
 ხრუკ 1. verbrennen (Sonne das Land) 2. zusammenschrumpfen (Leder durch Hitze des Feuers) 3. {imer., gur., khar.} beugen, (sich) krümmen
 ხრუსტ 1. zusammenschrumpfen (Leder durch Hitze des Feuers) 2. {fig.} (alters)gebeugt werden
 ხრუტუნ 1. schnurren 2. grunzen
@@ -5851,7 +5851,7 @@
 ჯიყჯიყ 1. unschön/undeutlich sprechen 2. holpern
 ჯიშ entarten; aussterben lassen
 ჯიჯგნ zerfleischen
-ჯიჯინ unaufhörlich, lästig reden; näseln
+ჯიჯინ unaufhörlich/lästig reden; näseln
 ჯიჯღინ mit unzufriedenem Ton od. undeutlich sprechen
 ჯლაგუნ (beim Saugen) mit dem Kopf gegen das Euter stoßen
 ჯლეხ {va.} die Sporen geben
