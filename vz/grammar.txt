@@ -57,7 +57,16 @@ IntegerDotWhitespaceValue(i)
     i "." ws Value
 
 Value
-    TagsWhitespace? ReferenceOrSentences
+    Reference
+    Sentences
+
+Reference
+    TagsWhitespace? Kind ws Source
+
+Kind
+    "Bed." ws "s."
+    "s." 
+    "id."
 
 TagsWhitespace
     Tags ws
@@ -118,18 +127,6 @@ Tag
     "va."
     "vulg."
 
-ReferenceOrSentences
-    Reference
-    Sentences
-
-Reference
-    Kind ws Source
-
-Kind
-    "Bed." ws "s."
-    "s." 
-    "id."
-
 Sentences
     Sentence SemicolonWhitespaceSentence*
 
@@ -138,7 +135,7 @@ SemicolonWhitespaceSentence
 
 // todo: assume expanded all shorthands, has no (), od., /, not yet true ❗️
 Sentence
-    Word CommaWhitespaceWord*
+    TagsWhitespace? Word CommaWhitespaceWord*
 
 CommaWhitespaceWords
     ","? ws Words
