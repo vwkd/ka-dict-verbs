@@ -2071,7 +2071,7 @@
 მუხტ laden; entladen
 მფარველ schützen, beschützen, protegieren
 მფლობელი 1. besitzen 2. herrschen (über)
-მქის rauh machen, uneben machen, rauh werden, uneben werden
+მქის rau machen, uneben machen, rau werden, uneben werden
 მქლ s. მქლენ
 მქლე id. მქლევ
 მქლევ zerkochen
@@ -5647,7 +5647,7 @@
 ხორავიჭ {khar.} einen Rückstand geben (beim Auslassen von Fett); {fig.} sehr mager werden (Vieh)
 ხორბლ vor der Reife stehen, reifen
 ხორგ Holz ans Ufer schwemmen
-ხორკლიან uneben machen, aufrauhen; rauh werden, schwielig werden
+ხორკლიან uneben machen, aufrauhen; rau werden, schwielig werden
 ხორც 1. verheilen 2. {fig.} sich mit etwas verbinden
 ხორციელ (sich) verwirklichen
 ხორხოზ {gur., imer.} durcheinander lärmen
