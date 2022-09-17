@@ -1391,7 +1391,7 @@
 კლანჭ {unk.} s. კრუნჩხ
 კლასიფიცირ klassifizieren, klassieren
 კლდევ stark werden, fest werden, unerschütterlich werden
-კლებულ 1. vermindern, sich vermindern, abnehmen, fallen; fehlen, mangeln 2. verzichten; ablassen (von) 3. subtrahieren; unterschlagen; es jemandem (z.B. an nichts) fehlen lassen 4. zuleide tun, schaden, beschädigen
+კლებულ 1. vermindern, sich vermindern, abnehmen, fallen; fehlen, mangeln 2. verzichten; ablassen (von) 3. subtrahieren; unterschlagen; es jemandem fehlen lassen (z.B. an nichts) 4. zuleide tun, schaden, beschädigen
 კლერტ {kach.} beschneiden, von dürren Zweigen befreien
 კლთ {va.} s. კლთოლ
 კლთოლ sieden, brodeln, wallen
@@ -1756,7 +1756,7 @@
 მარტო id. მარტოვ
 მარტოვ vereinsamen, vereinsamen lassen
 მარტოხელ jemanden allein in die Hände bekommen
-მარქაფ sich etwas (z.B. Pferd) als Reserve mitnehmen
+მარქაფ sich etwas als Reserve mitnehmen (z.B. Pferd)
 მარქსისტ ein Marxist sein, sich als Marxist aufspielen
 მარყუჟ eine Schlinge machen
 მარყუშ s. მარყუჟ
@@ -1990,7 +1990,7 @@
 მრუდ krumm machen, krumm werden
 მრუშ ehebrechen
 მსახიობ ein Schauspieler sein
-მსახურ 1. dienen 2. bedienen 3. sich etwas (z.B. Lob) verdienen
+მსახურ 1. dienen 2. bedienen 3. sich etwas verdienen (z.B. Lob)
 მსაჯ {spo.} Schiedsrichter sein
 მსაჯულ als Richter amten
 მსგავს angleichen; ähnlich werden, gleichen
@@ -2119,7 +2119,7 @@
 მშობლ Vaterstelle vertreten, Mutterstelle vertreten
 მშრალ trocknen
 მჩატ leicht machen, leichter machen, leicht werden, leichter werden
-მჩივნ {va.} etwas (z.B. sein Leid) klagen
+მჩივნ {va.} etwas klagen (z.B. sein Leid)
 მჩნ s. მჩნევ
 მჩნე id. მჩნევ
 მჩნევ 1. merken, bemerken; sich etwas anmerken lassen 2. halten (für) 3. eine Spur hinterlassen
@@ -3059,7 +3059,7 @@
 სქდომ s. სკდომ
 სქელ eindicken; sich verdicken
 სყიდ 1. einlösen, loskaufen; {fig.} sühnen 2. bestechen 3. aufkaufen
-სწავ 1. als Omen dienen, etwas (z.B. Gutes) bedeuten 2. lehren; in Kenntnis setzen
+სწავ 1. als Omen dienen, etwas bedeuten (z.B. Gutes) 2. lehren; in Kenntnis setzen
 სწავლ 1. lernen 2. lehren 3. nicht vergessen (z.B. jemandes Güte)
 სწარ s. სწრ
 სწორ 1. gerademachen; sich aufrichten 2. zielen (auf), richten (gegen) 3. ebnen, einebnen; angleichen 4. verbessern, korrigieren; begleichen; wieder in Ordnung bringen 5. gleichstellen; gleichkommen 6. zueilen (auf)
@@ -3239,7 +3239,7 @@
 ტყაპუნ patschen (im Schlamm), (barfuß) tappen
 ტყდ s. ტეხ
 ტყდომ s. ტეხ
-ტყებ {va.} sich (z.B. aufs Haupt) schlagen (zum Zeichen der Trauer)
+ტყებ {va.} sich schlagen (zum Zeichen der Trauer) (z.B. aufs Haupt)
 ტყეპ jemanden verhauen
 ტყვ¹ s. მბობ
 ტყვ² s. ტყ²
@@ -3463,7 +3463,7 @@
 ფოთვლ s. ფოთლ
 ფოთიალ {imer.} herumirren, herumsuchen
 ფოთლ sich belauben
-ფოთნ 1. {gur.} tastend suchen 2. {gur.} eine Handvoll (z.B. Beeren) abrupfen
+ფოთნ 1. {gur.} tastend suchen 2. {gur.} eine Handvoll abrupfen (z.B. Beeren)
 ფოკუს {umg.} Zauberkunststücke machen; {fig.} Listen anwenden
 ფოლ¹ 1. herabsetzen (Preis), vermindern 2. heruntermachen
 ფოლ² {imer., gur.} Hufspuren hinterlassen; mit dem Huf scharren
@@ -4287,11 +4287,11 @@
 შვენ 1. in Schönheit erstrahlen; schön werden; zieren 2. passen, sich ziemen
 შვერ¹ heben, strecken, ausstrecken; hinunterlassen, hängenlassen; richten (gegen); (dem Wind usw.) aussetzen
 შვერ² s. შვრ¹
-შვეტ {imer.} die Blätter (Zweig) abstreifen
+შვეტ {imer.} die Blätter abstreifen (Zweig)
 შვილ sich wie ein eigenes Kind benehmen; adoptieren
 შვილდ einen Bückling machen
 შვირ s. შვერ¹
-შვლეპ 1. {imer.} plötzlich in etwas hineinlangen, plötzlich in etwas treten 2. etwas auf jemanden niedersausen lassen 3. abrinden; abhäuten; die Blätter (Ast) entfernen; wund schinden 4. den Hut rasch ziehen
+შვლეპ 1. {imer.} plötzlich in etwas hineinlangen, plötzlich in etwas treten 2. etwas auf jemanden niedersausen lassen 3. abrinden; abhäuten; die Blätter entfernen (Ast); wund schinden 4. den Hut rasch ziehen
 შვლეჭ 1. {imer.} das Schwert usw. ziehen, das Schwert usw. auf jemanden niedersausen lassen 2. {gur., imer.} übers Ohr hauen
 შვლიპ s. შვლეპ
 შვლიჭ {imer., gur.} s. შვლეჭ
