@@ -2496,7 +2496,7 @@
 პირმოთნე schmeicheln, heucheln
 პირმცინარ ein lachendes Gesicht haben; lachen
 პირობ bedingen, bewirken
-პიროვნ 1. personifizieren 2. {nz.} die Verantwortung für die Arbeit usw. übertragen
+პიროვნ 1. personifizieren 2. {nz.} die Verantwortung übertragen (für Arbeit usw.)
 პირუტყვ {umg.} vertieren, vertieren lassen
 პირფერ schmeicheln, heucheln
 პირქვავ umstürzen, auf den Kopf stellen
@@ -3815,7 +3815,7 @@
 ქს {psch., chew., thusch.} s. ქსელ
 ქსაქს zerstreuen, zersplittern, zerstückeln
 ქსევ die Hunde auf jemanden hetzen
-ქსელ 1. ein Netz weben, spinnen (z.B. Spinne) 2. anzetteln (Kettfäden) 3. ein Netz von Straßen usw. legen
+ქსელ 1. ein Netz weben, spinnen (z.B. Spinne) 2. anzetteln (Kettfäden) 3. ein Netz legen (Straßen usw.)
 ქსი s. ქსევ
 ქსოვ weben; stricken; häkeln; besticken; {gur., imer.} flechten
 ქსუ id. ქსუვ
@@ -3828,7 +3828,7 @@
 ქურუშ 1. sich verfinstern (Gesicht) 2. sich bewölken
 ქურუხ 1. sich verfinstern (Gesicht) 2. sich mit Regenwolken bedecken
 ქურქულ {gur.} absichtlich stöhnen, bewusst stöhnen
-ქურჩვლ {imer.} die Hüllblätter des Maiskolbens usw. entfernen
+ქურჩვლ {imer.} die Hüllblätter entfernen (Maiskolben usw.)
 ქურჩლ id. ქურჩვლ
 ქურჯ id. ქურჯნ
 ქურჯნ {va.} mit der Faust stoßen (ins Genick)
@@ -4276,7 +4276,7 @@
 შაშრ id. შაშვრ
 შაშხ räuchern (Fleisch)
 შენ¹ 1. bauen 2. anbauen, züchten 3. sich ansiedeln 4. entarten
-შენ² sich aufs Haupt usw. schlagen; bewerfen, beschießen
+შენ² sich schlagen (aufs Haupt usw.); bewerfen, beschießen
 შეშ steif werden, erstarren
 შეშმიშ {kach.} von Sinnen bringen, von Sinnen geraten
 შვ¹ 1. losmachen, losbinden; lockern, sich lockern 2. froh sein 3. jemanden wo hinlassen, ein Tier wo hinlassen; freilassen; ausschicken; entlassen 4. Wasser wo hinleiten lassen, Wasser wo hinfließen lassen, herausströmen lassen 5. produzieren; veröffentlichen 6. weglassen (Textstelle); fernbleiben (z.B. vom Unterricht) 7. auslassen (Kleid) 8. anlassen (Motor) 9. ablassen von 10. wo hineilen, wo hinstürzen 11. senken, sich senken; untersinken, untergehen 12. wo hinführen (Weg)
@@ -4285,14 +4285,14 @@
 შველ 1. helfen 2. aufhören zu streiten; sich einigen
 შველი s. შველ
 შვენ 1. in Schönheit erstrahlen; schön werden; zieren 2. passen, sich ziemen
-შვერ¹ heben, strecken, ausstrecken; hinunterlassen, hängenlassen; richten gegen; dem Wind usw. aussetzen
+შვერ¹ heben, strecken, ausstrecken; hinunterlassen, hängenlassen; richten gegen; etwas etwas aussetzen (dem Wind usw.)
 შვერ² s. შვრ¹
 შვეტ {imer.} die Blätter abstreifen (Zweig)
 შვილ sich wie ein eigenes Kind benehmen; adoptieren
 შვილდ einen Bückling machen
 შვირ s. შვერ¹
 შვლეპ 1. {imer.} plötzlich in etwas hineinlangen, plötzlich in etwas treten 2. etwas auf jemanden niedersausen lassen 3. abrinden; abhäuten; die Blätter entfernen (Ast); wund schinden 4. den Hut rasch ziehen
-შვლეჭ 1. {imer.} das Schwert usw. ziehen, das Schwert usw. auf jemanden niedersausen lassen 2. {gur., imer.} übers Ohr hauen
+შვლეჭ 1. {imer.} ziehen (Schwert usw.), auf jemanden niedersausen lassen (Schwert usw.) 2. {gur., imer.} übers Ohr hauen
 შვლიპ s. შვლეპ
 შვლიჭ {imer., gur.} s. შვლეჭ
 შვნ s. შნ
@@ -4416,7 +4416,7 @@
 ჩადი begehen (Fehler)
 ჩაკჩაკ s. ჩაქჩაქ
 ჩალ id. ჩალავ
-ჩალავ 1. Halme des Maises usw. schneiden 2. mit Stroh decken; aus Strohgeflecht herstellen 3. wachsen, ohne Früchte hervorzubringen (Getreidepflanzen) 4. {psch.} besiegen; geringschätzen
+ჩალავ 1. Halme schneiden (Mais usw.) 2. mit Stroh decken; aus Strohgeflecht herstellen 3. wachsen, ohne Früchte hervorzubringen (Getreidepflanzen) 4. {psch.} besiegen; geringschätzen
 ჩალთ {khis.} zerstückeln
 ჩალიშ s. ჩალიჩ
 ჩალიჩ sich anstrengen
@@ -5486,7 +5486,7 @@
 ხდ³ s. ხდენ¹
 ხდ⁴ s. ხდენ²
 ხდენ¹ 1. machen, begehen; bewirken; durchführen 2. werden; geschehen; sich verwirklichen 3. verderben; vereiteln; misslingen 4. stehen, passen 5. bekommen, gut tun 6. obliegen 7. genügen
-ხდენ² 1. {va.} hinaufsteigen; aufsteigen (Gestirn), untergehen (Gestirn); hinaufsetzen (aufs Pferd); absteigen lassen (vom Pferd); abspringen; überqueren; bei jemandem eindringen, angreifen 2. aus einem Zimmer usw. dringen (z.B. Geräusch); sich verbreiten 3. nicht erfüllen 4. bezahlen müssen; teuer zu stehen kommen 5. widerfahren
+ხდენ² 1. {va.} hinaufsteigen; aufsteigen (Gestirn), untergehen (Gestirn); hinaufsetzen (aufs Pferd); absteigen lassen (vom Pferd); abspringen; überqueren; bei jemandem eindringen, angreifen 2. aus etwas dringen (z.B. Geräusch aus Zimmer); sich verbreiten 3. nicht erfüllen 4. bezahlen müssen; teuer zu stehen kommen 5. widerfahren
 ხდილ 1. zahlen 2. überstehen (Krankheit)
 ხდინ¹ s. ხდენ¹
 ხდინ² s. ხდენ²
@@ -5518,7 +5518,7 @@
 ხელმძღვანელ sich leiten lassen von; leiten
 ხელმწიფ herrschen
 ხელოვნ 1. ein Künstler sein; zum Meister in seinem Fach machen 2. sich bemühen
-ხელოსნ 1. ein Handwerk betreiben 2. {thusch., ethn.} die einer Ikone zu weihende Gabe usw. segnen
+ხელოსნ 1. ein Handwerk betreiben 2. {thusch., ethn.} etwas einer Ikone zu Weihendes segnen (Gabe usw.)
 ხელსაქმ handarbeiten
 ხემს einen Imbiss einnehmen
 ხენცლ {chew.} mit der Sichel schneiden
@@ -5546,7 +5546,7 @@
 ხვედრ 1. treffen, schlagen, stoßen 2. vorfinden, vorfinden lassen 3. entgegenschicken 4. zusprechen 5. etwas Unangenehmes über jemanden bringen 6. begreifen, erraten 7. wo hingeraten 8. erwarten, empfangen 9. stoßen auf, begegnen; jemandem zustoßen
 ხვევ 1. einwickeln; aufwickeln; zusammenrollen 2. abbiegen (Weg) 3. {gur.} infizieren 4. sich schlingen um; umfassen, umarmen 5. sich stürzen auf, herfallen über, umringen
 ხველ husten; sich räuspern
-ხვეტ mit der Schaufel usw. sauber machen; {imer., gur.} fegen, kehren
+ხვეტ sauber machen (mit Schaufel usw.); {imer., gur.} fegen, kehren
 ხვეწ¹ 1. meißeln, glätten; schnitzen 2. Faden reinigen; {fig.} ausfeilen 3. {khar.} zerkochen 4. herunterrutschen (z.B. Socke)
 ხვეწ² 1. vertreiben 2. flüchten
 ხვეწ³ s. ხვეწნ
@@ -5767,7 +5767,7 @@
 ჯაგ² {va.} zureiten; dressieren (Pferd)
 ჯაგვნ s. ჯაგნ
 ჯაგლაგ trotten lassen; ausgemergelt werden
-ჯაგნ Trauben usw. auf einen dünnen Zweig aufreihen
+ჯაგნ auf einen dünnen Zweig aufreihen (Trauben usw.)
 ჯაგჯაგ Bed. s. ჩაქჩაქ
 ჯადო id. ჯადოვ
 ჯადოვ bezaubern, behexen
