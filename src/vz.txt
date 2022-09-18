@@ -3446,8 +3446,8 @@
 ფიცვრ mit Brettern verkleiden, mit Brettern vernageln, mit Brettern dielen
 ფიცრ id. ფიცვრ
 ფიცულ schwören, beteuern
-ფიცხ 1. lebhaft sein, flink sein 2. hitzig sein, sich ereifern 3. auf offenem Feuer heiß machen; Heu u. ä. an der Sonne trocknen; ausdörren
-ფიწვლ Heu u. ä. mit der Gabel heben
+ფიცხ 1. lebhaft sein, flink sein 2. hitzig sein, sich ereifern 3. auf offenem Feuer heiß machen; an der Sonne trocknen (Heu u. ä.); ausdörren
+ფიწვლ mit der Gabel heben (Heu u. ä.)
 ფიწლ id. ფიწვლ
 ფიხვნ {psch., chew.} sich unterhalten
 ფლ¹ vergraben; versinken
@@ -3724,7 +3724,7 @@
 ქვრ s. ქრ¹
 ქვრივ verwitwen
 ქიაქ {imer.} verstreuen, zerstreuen
-ქილ abschuppen; abhäuten; die Borsten u. ä. entfernen
+ქილ abschuppen; abhäuten; entfernen (Borsten u. ä.)
 ქილიკ Späße machen
 ქილიკა id. ქილიკავ
 ქილიკავ s. ქილიკ
@@ -4544,7 +4544,7 @@
 ჩუმქვრ {moch.} mit Schnee bedecken, mit Schneeverwehungen bedecken
 ჩუმქრ id. ჩუმქვრ
 ჩუჟ {imer., gur.} schlecht brennen (feuchtes Holz)
-ჩურთ mit Werg u. ä. ausstopfen
+ჩურთ ausstopfen (mit Werg u. ä.)
 ჩურჩ 1. aushülsen 2. entsteinen
 ჩურჩულ flüstern
 ჩურჩუტ 1. dummes Zeug reden 2. verdummen
@@ -4968,7 +4968,7 @@
 წევ² s. წოლ
 წევნ s. წევ¹
 წელ dehnen, spannen
-წერ 1. schreiben; beschreiben 2. inventarisieren 3. auf Tonband u. ä. aufnehmen
+წერ 1. schreiben; beschreiben 2. inventarisieren 3. aufnehmen (auf Tonband u. ä.)
 წეს 1. senden, einsetzen als 2. bestimmen, festsetzen 3. gründen
 წესრიგ regeln, ordnen
 წექ s. წოლ
@@ -5866,7 +5866,7 @@
 ჯობნ besser sein; übertreffen, besiegen
 ჯოგ zu einer Herde zusammentreiben
 ჯორ gründlich schelten
-ჯორგ {imer., gur.} Baumstämme u. ä. unordentlich aufeinanderwerfen; verbarrikadieren; mit einem Gewicht beschweren
+ჯორგ {imer., gur.} unordentlich aufeinanderwerfen (Baumstämme u. ä.); verbarrikadieren; mit einem Gewicht beschweren
 ჯორჯლ unschön aufwickeln
 ჯოხ prügeln
 ჯრ 1. sich drängen, sich zusammendrängen 2. {psch.} zugehen (Tür)
