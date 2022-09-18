@@ -3446,8 +3446,8 @@
 ფიცვრ mit Brettern verkleiden, mit Brettern vernageln, mit Brettern dielen
 ფიცრ id. ფიცვრ
 ფიცულ schwören, beteuern
-ფიცხ 1. lebhaft sein, flink sein 2. hitzig sein, sich ereifern 3. auf offenem Feuer heiß machen; an der Sonne trocknen (Heu u. ä.); ausdörren
-ფიწვლ mit der Gabel heben (Heu u. ä.)
+ფიცხ 1. lebhaft sein, flink sein 2. hitzig sein, sich ereifern 3. auf offenem Feuer heiß machen; an der Sonne trocknen (Heu usw.); ausdörren
+ფიწვლ mit der Gabel heben (Heu usw.)
 ფიწლ id. ფიწვლ
 ფიხვნ {psch., chew.} sich unterhalten
 ფლ¹ vergraben; versinken
@@ -3724,7 +3724,7 @@
 ქვრ s. ქრ¹
 ქვრივ verwitwen
 ქიაქ {imer.} verstreuen, zerstreuen
-ქილ abschuppen; abhäuten; entfernen (Borsten u. ä.)
+ქილ abschuppen; abhäuten; entfernen (Borsten usw.)
 ქილიკ Späße machen
 ქილიკა id. ქილიკავ
 ქილიკავ s. ქილიკ
@@ -4544,7 +4544,7 @@
 ჩუმქვრ {moch.} mit Schnee bedecken, mit Schneeverwehungen bedecken
 ჩუმქრ id. ჩუმქვრ
 ჩუჟ {imer., gur.} schlecht brennen (feuchtes Holz)
-ჩურთ ausstopfen (mit Werg u. ä.)
+ჩურთ ausstopfen (mit Werg usw.)
 ჩურჩ 1. aushülsen 2. entsteinen
 ჩურჩულ flüstern
 ჩურჩუტ 1. dummes Zeug reden 2. verdummen
@@ -4968,7 +4968,7 @@
 წევ² s. წოლ
 წევნ s. წევ¹
 წელ dehnen, spannen
-წერ 1. schreiben; beschreiben 2. inventarisieren 3. aufnehmen (auf Tonband u. ä.)
+წერ 1. schreiben; beschreiben 2. inventarisieren 3. aufnehmen (auf Tonband usw.)
 წეს 1. senden, einsetzen als 2. bestimmen, festsetzen 3. gründen
 წესრიგ regeln, ordnen
 წექ s. წოლ
@@ -5057,7 +5057,7 @@
 წიწილავ {umg.} heranwachsen
 წიწინ piepsen
 წიწკინ hell knacken (Eis unter den Füßen)
-წიწკნ 1. zerfleischen, zerreißen 2. rupfen (Huhn u. ä.) 3. abknabbern 4. einen stechenden Schmerz verspüren
+წიწკნ 1. zerfleischen, zerreißen 2. rupfen (Huhn usw.) 3. abknabbern 4. einen stechenden Schmerz verspüren
 წიწმატ hitzig sein, sich erhitzen
 წიხვლ ausschlagen (Tiere); einen Fußtritt versetzen
 წიხლ id. წიხვლ
@@ -5085,7 +5085,7 @@
 წკმუტუნ winseln
 წკნა id. წკნავ
 წკნავ s. წკნავილ
-წკნავილ heulen (Hund u. ä.)
+წკნავილ heulen (Hund usw.)
 წკნავლ s. წკნავილ
 წკნდ sich klären (Flüssigkeit)
 წკრეტ austrocknen, versiegen
@@ -5843,7 +5843,7 @@
 ჯინ² {imer., gur.} bestehen auf; trotzig werden
 ჯირგალ {umg.} furchtbar hausen
 ჯირით 1. am ჯირითი-Spiel teilnehmen 2. galoppieren, galoppieren lassen
-ჯირჯვ 1. quellen (Samen u. ä.) 2. geschwollen werden, dick werden
+ჯირჯვ 1. quellen (Samen usw.) 2. geschwollen werden, dick werden
 ჯიუტ eigensinnig sein, trotzen
 ჯიფთ aufschichten (Bretter)
 ჯიქ starrköpfig sein, hartnäckig sein
@@ -5866,7 +5866,7 @@
 ჯობნ besser sein; übertreffen, besiegen
 ჯოგ zu einer Herde zusammentreiben
 ჯორ gründlich schelten
-ჯორგ {imer., gur.} unordentlich aufeinanderwerfen (Baumstämme u. ä.); verbarrikadieren; mit einem Gewicht beschweren
+ჯორგ {imer., gur.} unordentlich aufeinanderwerfen (Baumstämme usw.); verbarrikadieren; mit einem Gewicht beschweren
 ჯორჯლ unschön aufwickeln
 ჯოხ prügeln
 ჯრ 1. sich drängen, sich zusammendrängen 2. {psch.} zugehen (Tür)
