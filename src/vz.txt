@@ -839,7 +839,7 @@
 ვიწროვ s. ვიწრო
 ვიწყ vergessen
 ვლ¹ s. სვლ
-ვლ² 1. ziehen, führen (z.B. Linie, Graben) 2. spülen 3. packen, ergreifen, fassen
+ვლ² 1. ziehen (z.B. Linie, Graben), führen (z.B. Linie, Graben) 2. spülen 3. packen, ergreifen, fassen
 ვლდ {va.} s. ვლდომ
 ვლდომ {va.} springen, hüpfen
 ვლენ 1. senden, schicken 2. offenbaren, sich offenbaren 3. widerfahren, passieren
@@ -3815,7 +3815,7 @@
 ქს {psch., chew., thusch.} s. ქსელ
 ქსაქს zerstreuen, zersplittern, zerstückeln
 ქსევ die Hunde auf jemanden hetzen
-ქსელ 1. ein Netz weben, spinnen (z.B. Spinne) 2. anzetteln (Kettfäden) 3. ein Netz legen (z.B. Straßen)
+ქსელ 1. ein Netz weben (z.B. Spinne), spinnen (z.B. Spinne) 2. anzetteln (Kettfäden) 3. ein Netz legen (z.B. Straßen)
 ქსი s. ქსევ
 ქსოვ weben; stricken; häkeln; besticken; {gur., imer.} flechten
 ქსუ id. ქსუვ
