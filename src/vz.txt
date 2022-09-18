@@ -839,7 +839,7 @@
 ვიწროვ s. ვიწრო
 ვიწყ vergessen
 ვლ¹ s. სვლ
-ვლ² 1. ziehen, führen (z.B. Linie, Graben usw.) 2. spülen 3. packen, ergreifen, fassen
+ვლ² 1. ziehen, führen (z.B. Linie, Graben) 2. spülen 3. packen, ergreifen, fassen
 ვლდ {va.} s. ვლდომ
 ვლდომ {va.} springen, hüpfen
 ვლენ 1. senden, schicken 2. offenbaren, sich offenbaren 3. widerfahren, passieren
@@ -3216,7 +3216,7 @@
 ტრუხუნ grunzen
 ტრფ innig lieben, verehren
 ტრფიალ s. ტრფ
-ტუზ sich schweigend usw. wo hinstellen
+ტუზ sich schweigend wo hinstellen
 ტუმბ auspumpen, vollpumpen
 ტუნტულ s. ტანტალ
 ტურნ {psch.} s. ტრუნ
@@ -3554,7 +3554,7 @@
 ფუტკვრ {imer.} s. ფუტკრ
 ფუტკნ 1. zerzausen, zerrupfen 2. im Staub baden (Vögel)
 ფუტკრ {imer.} einäschern
-ფუტკულა {psch.} in der Erde usw. buddeln (Vögel)
+ფუტკულა {psch.} buddeln (Vögel)
 ფუტურო id. ფუტუროვ
 ფუტუროვ Bed. s. ფუღუროვ
 ფუტფუტ s. ფუთფუთ
@@ -4047,7 +4047,7 @@
 ღუდღუდ glimmen (Feuer); {fig.} rot glühen
 ღუვ s. ღუილ
 ღუზღუზ s. გუზგუზ
-ღუილ rot glühen, rot usw. leuchten; anfachen
+ღუილ rot glühen, rot leuchten; anfachen
 ღუნ biegen, beugen
 ღუპ zugrunde richten, zugrunde gehen
 ღურღნ {khar.} behaglich mümpfeln
@@ -4602,7 +4602,7 @@
 ჩხირკედელა id. ჩხირკედელავ
 ჩხირკედელავ {umg.} sich mit belanglosen Dingen beschäftigen
 ჩხლაკუნ {kach., psch.} knacken (Hahn des Gewehrs)
-ჩხლართ unsorgfältig stricken, flechten usw.
+ჩხლართ unsorgfältig stricken, unsorgfältig flechten
 ჩხორ unordentlich aufhäufen
 ჩხრეკ 1. stochern 2. durchsuchen
 ჩხრიალ 1. rauschen (Wasser) 2. klappern, klimpern, klirren
