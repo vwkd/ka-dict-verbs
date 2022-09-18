@@ -1026,7 +1026,7 @@
 თარხნ {hist.} von der Hörigkeit befreien
 თარჯ 1. {va.} ummauern 2. Grenzzeichen auf Bäume einkerben
 თარჯიმნ dolmetschen, übersetzen
-თაფ {khar., kach.} aufgehen, sich ablösen und herunterfallen (Brot das im თონე gebacken wird; vgl. თონე)
+თაფ {khar., kach.} aufgehen, sich ablösen und herunterfallen (Brot das im თონე gebacken wird)
 თაფვლ s. თაფლ
 თაფლ durch Beimischung von Honig süßen; {fig.} schmeicheln
 თაქ {umg.} sich vor die Stirne schlagen; jemandem einen Stoß versetzen, jemandem einen Puff versetzen
@@ -2940,7 +2940,7 @@
 სველ nass machen, feucht machen, nass werden, feucht werden; einweichen
 სვენ 1. ausruhen, ausruhen lassen, ruhen 2. einen Toten überführen; ehrerbietig hinlegen, sorglich hinlegen, hinstellen
 სვინდის {umg.} Bed. s. სინდის
-სვლ gehen; kommen usw. (s. Übersicht über die Hauptbedeutungen des Verbs S. 1219)
+სვლ gehen; kommen
 სვლეპ schleckend trinken, schleckend fressen
 სვლიპ s. სვლეპ
 სვრ¹ schmutzig machen, besudeln
@@ -5460,7 +5460,7 @@
 ხარკ einen Tribut auferlegen
 ხარშ kochen, garmachen
 ხარშო id. ხარშოვ
-ხარშოვ zu ხარშო (Pkt. 2) gemacht werden
+ხარშოვ zu ხარჩო gemacht werden
 ხარხარ laut lachen
 ხარჯ 1. ausgeben; verbrauchen 2. {psch.} sterben
 ხას {va.} Kühnheit an den Tag legen
