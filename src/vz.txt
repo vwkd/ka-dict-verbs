@@ -529,7 +529,7 @@
 გლახ s. გლახა(ვ)
 გლახა(ვ) 1. betteln 2. ins Elend geraten; ein Feigling werden
 გლახაკ Bed. s. გლახა(ვ)
-გლეხ beschmieren, bestreichen, mit Stuck bewerfen
+გლეს beschmieren, bestreichen, mit Stuck bewerfen
 გლეჯ reissen
 გლინ walzen (Metall)
 გლის s. გლეს
@@ -660,7 +660,7 @@
 დვ s. დ
 დვნ s. დნ
 დვრენ s. დვრინ
-დვრინი 1. die zweite Bassstimme singen 2. (psch.) girren
+დვრინ 1. die zweite Bassstimme singen 2. (psch.) girren
 დი¹ s. დევნ
 დი² s. დენ¹
 დი³ s. სვლ
@@ -2292,7 +2292,7 @@
 ოჯახიან 1. e-e Familie gründen 2. verheiraten
 პ spalten
 პაექრ debattieren, diskutieren
-პალატა palatalisiert w.
+პალატალ palatalisiert w.
 პალატალურ s. პალატალ
 პამპლაუქ e. Besserwisser sn
 პამპლაუშ s. პამპლაუქ
@@ -2558,7 +2558,7 @@
 როშ 1. grob mahlen (Getreide) 2. fig faseln, flunkern
 როხ Bed. s. როშ
 როხინ s. როხროხ
-რპხრპხ mit lauter/grober Stimme sprechen; poltern, rattern
+როხროხ mit lauter/grober Stimme sprechen; poltern, rattern
 რტყ 1. schlagen, stossen, treffen 2. angreifen 3. umgürten; einkreisen, belagern; umzäunen
 რუ in e-n Graben leiten (Wasserlauf)
 რუდუნ arbeiten, sich abmühen
@@ -3394,7 +3394,7 @@
 ფხოკნ Bed. s. ფხოჭნ
 ფხორ die Schwanzfedern aufstellen, sich aufplustern
 ფხოტ sich die Wangen (vor Kummer) zerfleischen
-ფხოტნ (imer.) s. ფხოენ
+ფხოტნ (imer.) s. ფხოჭნ
 ფხოჭ (imer., gur.) s. ფხოჭნ
 ფხოჭნ auf-, zer-kratzen
 ფხრეწ ab-, zer-reissen, zerfetzen
@@ -3864,7 +3864,7 @@
 ყვინჩილ sich dünken; hitzig sn
 ყვინჩილა(ვ) s. ყვინჩილ
 ყვირ s. ყვირილ
-ყვირილი 1. schreien; rauschen (v. Fluss) 2. (psch., kach.) aufschiessen (v. Pflanzen)
+ყვირილ 1. schreien; rauschen (v. Fluss) 2. (psch., kach.) aufschiessen (v. Pflanzen)
 ყვიტყვიტ "kwitt kwitt" schreien (v. Vögeln)
 ყვლეფ 1. abrinden; häuten; rupfen; aufschinden 2. fig j-n schinden
 ყვლიფ s. ყვლეფ
@@ -3901,7 +3901,7 @@
 ყმინდ (kach.) s. ყმენდ
 ყმუ(ვ) s. ყმუილ
 ყმუვლ s. ყმუილ
-ყმუი heulen
+ყმუილ heulen
 ყმუყუნ blöken
 ყნოს riechen
 ყოვნ verweilen; verzögern
@@ -4028,7 +4028,7 @@
 შილა(ვ) (imer.) sich herumzanken
 შილიფ (imer., gur.) sich die Kleidung lockern
 შიმშილ Hunger leiden; aushungern
-შინ¹ s. შენკ²
+შინ¹ s. შენ²
 შინ² erschrecken; sich fürchten
 შინაურ 1. zähmen; züchten 2. in die Familie aufnehmen
 შინჯ s. სინჯ
@@ -4722,7 +4722,7 @@
 წიწმატ hitzig sn, sich erhitzen
 წიხ(ვ)ლ ausschlagen (v. Tieren); e-n Fusstritt versetzen
 წკა(ვ) s. წკავილ
-წკავილი mit hoher, dünner Stimme bellen
+წკავილ mit hoher, dünner Stimme bellen
 წკავლ s. წკავილ
 წკავწკავ bäffen, kläffen
 წკანწკარ s. წანწკარ
@@ -5013,7 +5013,7 @@
 ჭყვლეპ mit der Hand zerdrücken (Gemüse)
 ჭყვლიპ s. ჭყვლეპ
 ჭყი(ვ) s. ჭყივილ
-ჭყივილი kreischen, quieken, laut zwitschern
+ჭყივილ kreischen, quieken, laut zwitschern
 ჭყივლ s. ჭყივილ
 ჭყიპ¹ s. ჭყეპ
 ჭყიპ² (gur.) Bed. s. ჭყვლეპ
