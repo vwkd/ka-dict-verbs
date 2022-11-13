@@ -46,7 +46,7 @@
 ანჩხლ böse/zänkisch sein, sich ärgern
 ანც ausgelassen/unartig sein
 არ¹ s. სვლ
-არ² s. ყოფნ
+არ² s. ყოფნ¹
 არავ verneinen, von etwas nicht abgehen
 არარა ein Nichts sein, nicht existieren
 არმ bitter machen, vergiften
@@ -427,11 +427,11 @@
 ბღალ beschmutzen, besudeln
 ბღანძალავ (kach.) (spielerisch) ringen/kämpfen
 ბღარტ brüten
-ბღატ s. ბღოტ
+ბღატ s. ბღოტ¹
 ბღაუჭ sich festhängen/(an)klammern
 ბღაჯნ kritzeln
 ბღენძ grosstun
-ბღერტ s. ბერტყ
+ბღერტ s. ბერტყ¹
 ბღვერ grimmig anschauen
 ბღვირ s. ბღვერ
 ბღვრიალ¹ glitzern
@@ -817,7 +817,7 @@
 ვრცელ erweitern; verbreiten
 ვს 1. füllen 2. löschen, ausmachen; zugrunde richten 3. blind machen, blenden
 ვულგარ vulgarisieren
-ზ s. შვრ
+ზ s. შვრ¹
 ზავ 1. vermischen, verdünnen 2. versöhnen
 ზავთ 1. lärmen/krachen lassen 2. anschwellen lassen (z. B. Fluss) 3. empören
 ზამთრ überwintern; wintern
@@ -1111,7 +1111,7 @@
 თხ † s. თხე(ვ)
 თხაპ beschmutzen, verschmieren
 თხაპნ beschmutzen, verschmieren
-თხარ¹ s. თხრ
+თხარ¹ s. თხრ¹
 თხარ² s. მბობ
 თხე(ვ) † 1. vergiessen (z.B. Blut) 2. (psch.) verlieren
 თხევად (phys.) (sich) verflüssigen
@@ -3648,7 +3648,7 @@
 ღერღ¹ 1. grob mahlen, schroten 2. be-, an-nagen 3. (gur.) unaufhörlich plappern; (imer.) unüberlegt reden; (khis.) (in brummigem Ton) schnöde reden
 ღერღ² (imer.) unlustig w.
 ღერღეტ watscheln
-ღეტ (psch.) s. ხეტ
+ღეტ (psch.) s. ხეტ¹
 ღეღ auf-haken, -knöpfen
 ღეღელა(ვ) (an der Brust) entblösst sn; abgedeckt sn
 ღეჭ kauen
@@ -4894,7 +4894,7 @@
 ჭეჭკ (imer., gur., letsch.) sich et. einklemmen
 ჭეჭყ zer-drücken, -treten
 ჭეხ¹ rot w.
-ჭეხ² (psch., chew.) s. ჭექ
+ჭეხ² (psch., chew.) s. ჭექ¹
 ჭვალ e-n stech. Schmerz bekommen
 ჭვარტ(ვ)ლ verrussen
 ჭვდ s. ჭდ
