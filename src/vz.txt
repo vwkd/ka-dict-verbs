@@ -1283,7 +1283,7 @@
 კვირაძლ Feierabend machen
 კვირვ s. კვირ
 კვირტ knospen, spriessen
-კვლ s. კლ
+კვლ s. კლ¹
 კვლად † wiederholen, vermehren, vervielfachen
 კვლანჭ (sich) krümmen/biegen
 კვლე(ვ) auf-, aus-spüren, sich orientieren; (wissenschaftlich) erforschen
@@ -2012,7 +2012,7 @@
 მჩქეფარ sprudeln, hervorquellen
 მცენ Pflanzen hervorbringen
 მცველ Hüter/Wächter sn; beschützen, hüten
-მცვნ s. მცნ
+მცვნ s. მცნ¹
 მცვრე(ვ)¹ nachlesen (im Weinberg)
 მცვრე(ვ)² betauen; sich mit Tau bedecken
 მცვრი¹ s. მცვრე(ვ)¹
@@ -2902,7 +2902,7 @@
 სხლტ s. სხლეტ
 სხლტომ s. სხლეტ
 სხურ besprengen, (an)spritzen
-სჯ¹ s. რჯ
+სჯ¹ s. რჯ¹
 სჯ² 1. (be)strafen 2. erörtern; entscheiden 3. bitteres Leid zufügen 4. zuerkennen, verleihen
 სჯა-ბაას beratschlagen; sich unterhalten
 ტაბაკ 1. als ტაბაკა braten 2. (khar.) verlesen (Körner)
@@ -3295,7 +3295,7 @@
 ფრქვ s. ფრქვე(ვ)
 ფრქვე(ვ) be-streuen, -stäuben; vergiessen (Tränen); verbreiten (Duft); ergiessen (Licht)
 ფრქვი s. ფრქვე(ვ)
-ფრჩხვენ (imer., ratsch.) s. ფშვენ
+ფრჩხვენ (imer., ratsch.) s. ფშვენ²
 ფრჩხვნ (imer., ratsch.) s. ფშვნ
 ფრჩხილ mit dem (Finger-)Nagel e-e Kerbe eindrücken
 ფრცქვ(ე)ნ s. ფცქვ(ე)ნ
@@ -4091,7 +4091,7 @@
 შუპ(ვ)რ (khar., kach.) aus-, be-schimpfen
 შურ¹ 1. beneiden 2. reuen 3. (psch., chew.) hassen
 შურ² eilen; sich beeilen
-შურვ s. შურ
+შურვ s. შურ¹
 შუქ leuchten, scheinen
 შუღლ in Unfrieden leben; Zwietracht säen
 შუშ¹ 1. aus-, durch-backen 2. an-braten, -bräunen 3. versengen (Dürre das Land)
